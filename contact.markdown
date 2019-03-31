@@ -1,7 +1,6 @@
 ---
 title: Contact
-headerImg: beach.jpg
+headerImg: cover.png
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+Feel free to contact me at benedikt_mayer [at] outlook [dot] de.

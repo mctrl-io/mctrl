@@ -7,7 +7,7 @@ import           Text.Pandoc
 
 --------------------------------------------------------------------------------
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith config $ do
     match "static/*/*" $ do
         route idRoute
         compile copyFileCompiler
@@ -26,18 +26,18 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
-    create ["archive.html"] $ do
+    create ["projects.html"] $ do
         route idRoute
         compile $ do
             posts <- recentFirst =<< loadAll "posts/*"
-            let archiveCtx =
+            let projectsCtx =
                     listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Archives"            `mappend`
+                    constField "title" "Projects"            `mappend`
                     siteCtx
 
             makeItem ""
-                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
-                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/projects.html" projectsCtx
+                >>= loadAndApplyTemplate "templates/default.html" projectsCtx
                 >>= relativizeUrls
 
 
@@ -66,10 +66,14 @@ postCtx =
 
 siteCtx :: Context String
 siteCtx =
-    constField "baseurl" "http://localhost:8000" `mappend`
-    constField "site_description" "my beautiful blog" `mappend`
-    constField "instagram_username" "katychuang.nyc" `mappend`
-    constField "twitter_username" "katychuang" `mappend`
-    constField "github_username" "katychuang" `mappend`
-    constField "google_username" "katychuang" `mappend`
+    constField "baseurl" "http://localhost:8080" `mappend`
+    constField "site_description" "my beautiful page" `mappend`
+    constField "github_username" "benedikt-mayer" `mappend`
+    constField "linkedin_username" "benedikt-mayer-7ab235132" `mappend`
     defaultContext
+
+config :: Configuration
+config = defaultConfiguration
+    { previewHost = "0.0.0.0"
+    , previewPort          = 8080
+    }
