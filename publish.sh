@@ -8,7 +8,7 @@ stack exec CleanMagic-hakyll rebuild
 git fetch --all
 git checkout -b master --track origin/master
 # Overwrite existing files with new files
-cp -a _site/. .
+cp -a _site/. . 
 # Commit
 git add -A
 git commit -m "Publish."
