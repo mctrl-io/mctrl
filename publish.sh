@@ -3,6 +3,7 @@ git stash
 # Verify correct branch
 git checkout hakyll
 # Build new files
+stack build
 stack exec CleanMagic-hakyll rebuild
 # Get previous files
 git fetch --all
