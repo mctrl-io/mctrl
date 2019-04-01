@@ -2,6 +2,7 @@
 git stash
 # Verify correct branch
 git checkout hakyll
+sed -i 's+localhost:8080+https://benedikt-mayer.github.io+g' site.hs
 # Build new files
 stack build
 stack exec CleanMagic-hakyll rebuild
@@ -24,4 +25,5 @@ git push origin master:master
 # Restoration
 git checkout hakyll
 git branch -D master
+sed -i 's+https://benedikt-mayer.github.io+localhost:8080+g' site.hs
 git stash pop
