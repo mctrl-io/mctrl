@@ -7,7 +7,7 @@ sed -i 's+localhost:8080+https://benedikt-mayer.github.io+g' site.hs
 stack build
 stack exec CleanMagic-hakyll rebuild
 # stash the site changes
-git checkout site.hs
+ sed -i 's+https://benedikt-mayer.github.io+localhost:8080+g' site.hs
 # Get previous files
 git fetch --all
 git checkout -b master --track origin/master
@@ -27,5 +27,4 @@ git push origin master:master
 # Restoration
 git checkout hakyll
 git branch -D master
-# sed -i 's+https://benedikt-mayer.github.io+localhost:8080+g' site.hs
 git stash pop
