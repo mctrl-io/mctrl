@@ -14,7 +14,7 @@ git checkout -b master --track origin/master
 # check if everything worked and we're on master
 echo "on master? [y/n]"
 read yesno
-if [$yesno == "y"]; then
+if [ $yesno == "y" ]; then
     # Overwrite existing files with new files
     rsync -a --filter='P _site/' \
         --filter='P _cache/' \
@@ -33,9 +33,9 @@ if [$yesno == "y"]; then
     git branch -D master
 fi
 # now pop the stash
-echo git stash list --date=local
+git stash list --date=local
 echo "pop stash? [y/n]"
 read yesnostash
-if [$yesnostash == "y"]; then
+if [ $yesnostash == "y" ]; then
     git stash pop
 fi
