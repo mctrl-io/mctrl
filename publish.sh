@@ -2,11 +2,14 @@
 git stash
 # Verify correct branch
 git checkout hakyll
+# replace base url with github
+echo "setting base url to github url"
 sed -i 's+http://localhost:8000+https://benedikt-mayer.github.io+g' site.hs
 # Build new files
 stack build
 stack exec CleanMagic-hakyll rebuild
-# stash the site changes
+# replace base url with localhost again
+echo "setting base url back to localhost"
 sed -i 's+https://benedikt-mayer.github.io+http://localhost:8000+g' site.hs
 # Get previous files
 git fetch --all
@@ -39,3 +42,4 @@ read yesnostash
 if [ $yesnostash == "y" ]; then
     git stash pop
 fi
+echo "publish completed."
