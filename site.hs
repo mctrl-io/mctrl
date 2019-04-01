@@ -32,7 +32,7 @@ main = hakyllWith config $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let projectsCtx =
                     listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Projects"            `mappend`
+                    constField "title" "projects"            `mappend`
                     siteCtx
 
             makeItem ""
@@ -66,8 +66,8 @@ postCtx =
 
 siteCtx :: Context String
 siteCtx =
-    constField "baseurl" "localhost:8080" `mappend`
-    constField "site_description" "my beautiful page" `mappend`
+    constField "baseurl" "http://localhost:8000" `mappend`
+    constField "site_description" "benedikt's page" `mappend`
     constField "github_username" "benedikt-mayer" `mappend`
     constField "linkedin_username" "benedikt-mayer-7ab235132" `mappend`
     defaultContext
@@ -75,5 +75,5 @@ siteCtx =
 config :: Configuration
 config = defaultConfiguration
     { previewHost = "0.0.0.0"
-    , previewPort          = 8080
+    , previewPort          = 8000
     }

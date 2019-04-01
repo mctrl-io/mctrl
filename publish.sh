@@ -2,12 +2,12 @@
 git stash
 # Verify correct branch
 git checkout hakyll
-sed -i 's+localhost:8080+https://benedikt-mayer.github.io+g' site.hs
+sed -i 's+http://localhost:8000+https://benedikt-mayer.github.io+g' site.hs
 # Build new files
 stack build
 stack exec CleanMagic-hakyll rebuild
 # stash the site changes
- sed -i 's+https://benedikt-mayer.github.io+localhost:8080+g' site.hs
+sed -i 's+https://benedikt-mayer.github.io+http://localhost:8000+g' site.hs
 # Get previous files
 git fetch --all
 git checkout -b master --track origin/master
