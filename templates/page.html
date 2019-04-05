@@ -1,5 +1,28 @@
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('$baseurl$/static/img/$headerImg$')" alt="" title="">
+<div class="wrapper">
+    <div class="box heading">
+        <h1>$title$</h1>
+    </div>
+    <div class="box cover">
+        <img class="cropped" src="$baseurl$/static/img/$headerImg$" width="100%"></img>
+    </div>
+    <div class="box lower-content">
+        <br>
+        <div>
+            $if(subtitle)$
+            <h2>$subtitle$</h2>
+            $endif$
+            $if(author)$
+            <span>
+                Posted by $author$
+            </span>
+            $endif$
+        </div>
+        $body$
+    </div>
+</div>
+<hr>
+<!-- <header class="intro-header" style="background-image: url('$baseurl$/static/img/$headerImg$')" alt="" title="">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -17,10 +40,10 @@
             </div>
         </div>
     </div>
-</header>
+</header> -->
 
 <!-- Post Content -->
-<article>
+<!-- <article>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -29,4 +52,4 @@
             </div>
         </div>
     </div>
-</article>
+</article> -->

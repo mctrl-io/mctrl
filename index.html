@@ -1,4 +1,6 @@
-<!-- --- title: Home headerImg: cover.jpg --- -->
+--- 
+title: hi headerImg: cover.jpg 
+---
 <!-- Page Header -->
 <!-- <header class="intro-header" style="" alt="" title="">
     <div class="container head">
@@ -21,21 +23,22 @@
 </header> -->
 <div class="wrapper">
     <div class="box heading">
-        <h1>benedikt's page</h1>
+        <h1>$title$</h1>
     </div>
     <div class="box cover">
         <img class="cropped" src="$baseurl$/static/img/cover.jpg" width="100%"></img>
     </div>
     <div class="box lower-content">
         <br>
-        <p>Welcome to my page!</p>
+        $body$
+        <!-- <p>Welcome to my page!</p>
 
         <p>I've reproduced a list of recent projects here for your reading pleasure:</p>
 
         <h3>Recent Projects</h3>
         $partial("templates/post-list.html")$
 
-        <p>…or you can find more in the <a href="/projects.html">projects page</a>.</p>
+        <p>…or you can find more in the <a href="/projects.html">projects page</a>.</p> -->
     </div>
 </div>
 <hr>
