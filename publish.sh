@@ -4,13 +4,13 @@ git stash
 git checkout hakyll
 # replace base url with github
 echo "setting base url to github url"
-sed -i 's+http://localhost:8000+https://benedikt-mayer.github.io+g' site.hs
+sed -i 's+http://localhost:35729+https://benedikt-mayer.github.io+g' site.hs
 # Build new files
 stack build
 stack exec CleanMagic-hakyll rebuild
 # replace base url with localhost again
 echo "setting base url back to localhost"
-sed -i 's+https://benedikt-mayer.github.io+http://localhost:8000+g' site.hs
+sed -i 's+https://benedikt-mayer.github.io+http://localhost:35729+g' site.hs
 # Get previous files
 git fetch --all
 git checkout -b master --track origin/master
