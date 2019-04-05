@@ -1,4 +1,4 @@
---- title: Home headerImg: cover.jpg ---
+<!-- --- title: Home headerImg: cover.jpg --- -->
 <!-- Page Header -->
 <!-- <header class="intro-header" style="" alt="" title="">
     <div class="container head">
@@ -19,20 +19,34 @@
         </div>
     </div>
 </header> -->
+<div class="wrapper">
+    <div class="box heading">
+        <h1>benedikt's page</h1>
+    </div>
+    <div class="box cover">
+        <img class="cropped" src="$baseurl$/static/img/cover.jpg" width="100%"></img>
+    </div>
+    <div class="box lower-content">
+        <br>
+        <p>Welcome to my page!</p>
 
+        <p>I've reproduced a list of recent projects here for your reading pleasure:</p>
+
+        <h3>Recent Projects</h3>
+        $partial("templates/post-list.html")$
+
+        <p>…or you can find more in the <a href="/projects.html">projects page</a>.</p>
+    </div>
+</div>
+<hr>
+<!-- <hr> $partial("templates/_pager.html)$ -->
 <!-- Main Content -->
-<div class="container front-end">
+<!-- <div class="container front-end">
     <div class="row">
         <div class="posts">
             <div style="position: relative;
             text-align: center;width:100%">
-                <!-- <div style="height:500px;"> -->
-                <!-- <header class="intro-header" style="background-image: url('$baseurl$/static/img/cover.jpg');height:100%;"> -->
-                <!-- <header style="background-image: url('$baseurl$/static/img/cover.jpg');background-size: cover;"> -->
                 <header>
-                    <!-- <div class="post-meta">
-                    
-                    </div> -->
                     <img src="$baseurl$/static/img/cover.jpg" width="100%"></img>
                     <h1 class="post-title" style="position: absolute;
                     top: 50%;
@@ -40,8 +54,6 @@
                     transform: translate(-50%, -50%);">
                         <a href="#" id="post-title-h1" rel="bookmark" title="link" itemprop="url">benedikt's page</a>
                     </h1>
-                    <!-- <h1 class="post-title-readmore"><a href="#" rel="bookmark" title="title" itemprop="url"
-                            id="readmore-link"> ReadMore</a></h1> -->
                 </header>
 
             </div>
@@ -64,5 +76,5 @@
             </div>
         </div>
     </div>
-</div>
-<hr>
+</div> -->
+<!-- <hr> -->
