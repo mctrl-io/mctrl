@@ -1,5 +1,6 @@
 --------------------------------------------------------------------------------
 
+
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
@@ -8,6 +9,7 @@ import           Text.Pandoc
 
 --------------------------------------------------------------------------------
 
+
 main :: IO ()
 main = hakyllWith config $ do
   match "static/*/*" $ do
@@ -15,7 +17,8 @@ main = hakyllWith config $ do
     compile copyFileCompiler
 
   match "markdown-pages/*" $ do
-    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension "html"
+    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
+      "html"
     compile
       $   pandocCompiler
       >>= loadAndApplyTemplate "templates/page.html"    siteCtx
@@ -45,36 +48,24 @@ main = hakyllWith config $ do
         >>= relativizeUrls
 
 
-  -- match "index.html" $ do
-
-  --     route idRoute
-
-  --     compile $ do
-
-  --         posts <- recentFirst =<< loadAll "posts/*"
-
-  --         let indexCtx =
-
-  --                 listField "posts" postCtx (return posts) `mappend`
-
-  --                 -- constField "title" "Home"                `mappend`
-
-  --                 siteCtx
-
-
-  --         getResourceBody
-
-  --             >>= applyAsTemplate indexCtx
-
-  --             >>= loadAndApplyTemplate "templates/default.html" indexCtx
-
-  --             >>= relativizeUrls
-
+{-   match "index.html" $ do
+      route idRoute
+      compile $ do
+          posts <- recentFirst =<< loadAll "posts/*"
+          let indexCtx =
+                  listField "posts" postCtx (return posts) `mappend`
+                  -- constField "title" "Home"                `mappend`
+                  siteCtx
+          getResourceBody
+              >>= applyAsTemplate indexCtx
+              >>= loadAndApplyTemplate "templates/default.html" indexCtx
+              >>= relativizeUrls -}
 
   match "templates/*" $ compile templateCompiler
 
 
 --------------------------------------------------------------------------------
+
 
 postCtx :: Context String
 postCtx = dateField "date" "%B %e, %Y" `mappend` siteCtx
