@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Contact
 # headerImg: cover.jpg
 ---
 
