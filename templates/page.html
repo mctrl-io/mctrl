@@ -1,57 +1,14 @@
 <!-- Post Header -->
-<div class="wrapper">
+<main>
     <div class="box heading">
         <h1>$title$</h1>
     </div>
+    $if(headerImg)$
     <div class="box cover">
         <img class="cropped" src="$baseurl$/static/img/$headerImg$" width="100%"></img>
     </div>
+    $endif$
     <div class="box lower-content">
-        <br>
-        <div>
-            $if(subtitle)$
-            <h2>$subtitle$</h2>
-            $endif$
-            $if(author)$
-            <span>
-                Posted by $author$
-            </span>
-            $endif$
-        </div>
-        <main>
-            $body$
-        </main>
+        $body$
     </div>
-</div>
-<hr>
-<!-- <header class="intro-header" style="background-image: url('$baseurl$/static/img/$headerImg$')" alt="" title="">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-heading">
-                    <h1 class="post-title">$title$</h1>
-                    $if(subtitle)$
-                    <h2 class="subheading">$subtitle$</h2>
-                    $endif$
-                    <span class="meta">
-                        $if(author)$
-                        Posted by $author$
-                        $endif$
-                    </span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header> -->
-
-<!-- Post Content -->
-<!-- <article>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                $body$
-                <hr>
-            </div>
-        </div>
-    </div>
-</article> -->
+</main>
