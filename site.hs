@@ -19,8 +19,10 @@ main = hakyllWith config $ do
   match "markdown-pages/*" $ do
     route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
       "html"
-    compile
-      $   pandocCompiler
+    compile $ do 
+      getResourceBody
+      >>= applyAsTemplate siteCtx
+      >>= renderPandoc
       >>= loadAndApplyTemplate "templates/page.html"    siteCtx
       >>= loadAndApplyTemplate "templates/default.html" siteCtx
       >>= relativizeUrls
@@ -77,6 +79,9 @@ siteCtx =
     `mappend` constField "site_title"  "benedikt mayer | portfolio"
     `mappend` constField "github_username"   "benedikt-mayer"
     `mappend` constField "linkedin_username" "benedikt-mayer-7ab235132"
+    `mappend` constField "email_username" "benedikt_mayer"
+    `mappend` constField "email_domain" "outlook"
+    `mappend` constField "email_tld" "de"
     `mappend` defaultContext
 
 config :: Configuration

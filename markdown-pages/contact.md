@@ -3,6 +3,10 @@ title: Contact
 # headerImg: cover.jpg
 ---
 
-![portrait](../static/img/portrait.JPG){height="20em"} \
-
-Feel free to contact me at benedikt_mayer [at] outlook [dot] de.
+Feel free to contact me at
+<a href="#" class="crypted-mail"
+   data-name="$email_username$"
+   data-domain="$email_domain$"
+   data-tld="$email_tld$"
+   onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;">
+</a>.
