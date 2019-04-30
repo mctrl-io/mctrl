@@ -11,12 +11,12 @@
     <meta name="description" content="$site_description$">
     $endif$
 
-    <meta name="keywords" content="Benedikt Mayer, benediktmayer, data science, human computer interaction">
+    <meta name="keywords" content="Benedikt Mayer, benediktmayer, data science, human computer interaction, haskell, software development">
     <!-- Favicon -->
     <!-- <link rel="shortcut icon" href="$baseurl$/static/img/ico.png" type="image/x-icon" /> -->
     <!-- Blog Title -->
-    $if(title)$
-    <title>$title$</title>
+    $if(site_title)$
+    <title>$site_title$</title>
     $endif$
     <!-- Property Metas -->
     $if(site_description)$
@@ -24,9 +24,8 @@
     <meta property="og:site_name" content="$site_description$" />
     $endif$
     <!-- Canonical -->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"> -->
     <!-- StyleSheet -->
-    <link rel="stylesheet" href="$baseurl$/static/css/syntax.css">
     <link rel="stylesheet" href="$baseurl$/static/css/styles.css">
     <!-- Fonts -->
     <link href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" rel="stylesheet" type="text/css">

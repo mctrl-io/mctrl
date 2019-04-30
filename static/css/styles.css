@@ -123,6 +123,10 @@ footer>.wrapper>.grid-item>ul>li {
     padding-left: 0.3em;
 }
 
+footer>.wrapper>.grid-item>ul>li>a {
+    text-decoration: none;
+}
+
 @media screen and (max-width: 767px) {
     footer>.wrapper {
         grid-gap: 0;

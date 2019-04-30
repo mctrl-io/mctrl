@@ -73,7 +73,8 @@ postCtx = dateField "date" "%B %e, %Y" `mappend` siteCtx
 siteCtx :: Context String
 siteCtx =
   constField "baseurl" "http://localhost:35729"
-    `mappend` constField "site_description"  "benedikt's page"
+    `mappend` constField "site_description"  "benedikt mayer | portfolio"
+    `mappend` constField "site_title"  "benedikt mayer | portfolio"
     `mappend` constField "github_username"   "benedikt-mayer"
     `mappend` constField "linkedin_username" "benedikt-mayer-7ab235132"
     `mappend` defaultContext
