@@ -3,7 +3,9 @@ title: About
 # headerImg: cover.jpg
 ---
 
-![portrait](../static/img/portrait.JPG){height="20em"} \
+![portrait](../static/img/portrait.JPG){height="14em"} \
+
+&nbsp;
 
 I'm a software developer / researcher / data scientist based in Munich interested in human-computer interaction, machine learning, functional programming, data visualization and mixed reality.  
 
@@ -17,4 +19,6 @@ I've [co-written papers](https://scholar.google.de/citations?user=ZHmZq24AAAAJ&h
 
 &nbsp;
 
-Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.
+Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
+
+&nbsp;
