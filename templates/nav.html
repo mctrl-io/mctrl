@@ -1,7 +1,9 @@
 <!-- Navigation -->
 <nav class="navbar">
-    <a class="logo" href="$baseurl$">benedikt mayer</a>
-    <span class="navbar-toggle" id="js-navbar-toggle">
+    <span aria-label="home">
+        <a class="logo" href="$baseurl$">benedikt mayer</a>
+    </span>
+    <span aria-label="mobile menu" class="navbar-toggle" id="js-navbar-toggle">
         <i class="fas fa-bars"></i>
     </span>
     <ul class="main-nav" id="js-menu">
@@ -12,7 +14,7 @@
             <a class="nav-links" href="$baseurl$/contact.html">contact</a>
         </li>
         <li>
-            <a class="nav-links" href="https://www.github.com/$github_username$" target="_blank">
+            <a aria-label="link to my Github profile" class="nav-links" href="https://www.github.com/$github_username$" target="_blank">
                 <i class="fab fa-github"></i> $github_username$
             </a>
         </li>

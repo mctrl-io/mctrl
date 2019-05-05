@@ -1,17 +1,14 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-    <meta name="google" content="notranslate" />
     <!-- Viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- index ROBOTS follow -->
-    <meta name="robots" content="index, follow" />
     <!-- Site Desciption -->
     $if(site_description)$
     <meta name="description" content="$site_description$">
     $endif$
-
-    <meta name="keywords" content="Benedikt Mayer, benediktmayer, data science, human computer interaction, haskell, software development">
+    <!-- keywords -->
+    <meta name="keywords"
+        content="Benedikt Mayer, benediktmayer, data science, human computer interaction, haskell, software development">
     <!-- Favicon -->
     <!-- <link rel="shortcut icon" href="$baseurl$/static/img/ico.png" type="image/x-icon" /> -->
     <!-- Blog Title -->
@@ -21,10 +18,15 @@
     <!-- Property Metas -->
     $if(site_description)$
     <meta property="og:title" content="$site_description$" />
-    <meta property="og:site_name" content="$site_description$" />
     $endif$
+    <meta property="og:site_name" content="$site_title$" />
+    <meta property="og:image"
+        content="{{ page.url | replace:'index.html','static/img/portrait.JPG' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:url"
+        content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
     <!-- Canonical -->
-    <!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"> -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- StyleSheet -->
     <link rel="stylesheet" href="$baseurl$/static/css/styles.css">
     <!-- Fonts -->
