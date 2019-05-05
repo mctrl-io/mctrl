@@ -21,12 +21,12 @@
     $endif$
     <meta property="og:site_name" content="$site_title$" />
     <meta property="og:image"
-        content="{{ page.url | replace:'index.html','static/img/portrait.JPG' | prepend: site.baseurl | prepend: site.url }}">
+        content="$baseurl$static/img/portrait.JPG">
     <meta property="og:url"
-        content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+        content="$baseurl$">
 
     <!-- Canonical -->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="$baseurl$">
     <!-- StyleSheet -->
     <link rel="stylesheet" href="$baseurl$/static/css/styles.css">
     <!-- Fonts -->
