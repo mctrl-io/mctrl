@@ -2,13 +2,13 @@
 
 
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
+import           Data.Monoid
+import           Control.Monad (filterM)
 import           Hakyll
 import           Text.Pandoc
 
 
 --------------------------------------------------------------------------------
-
 
 main :: IO ()
 main = hakyllWith config $ do
@@ -19,13 +19,15 @@ main = hakyllWith config $ do
   match "markdown-pages/*" $ do
     route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
       "html"
-    compile $ do 
+
+    compile $ do
+      let projectsCtx = listField "projects" siteCtx (loadAll "projects/*") <> postCtx
       getResourceBody
-      >>= applyAsTemplate siteCtx
-      >>= renderPandoc
-      >>= loadAndApplyTemplate "templates/page.html"    siteCtx
-      >>= loadAndApplyTemplate "templates/default.html" siteCtx
-      >>= relativizeUrls
+        >>= applyAsTemplate projectsCtx
+        >>= renderPandoc
+        >>= loadAndApplyTemplate "templates/page.html"    projectsCtx
+        >>= loadAndApplyTemplate "templates/default.html" projectsCtx
+        >>= relativizeUrls
 
   match "posts/*" $ do
     route $ setExtension "html"
@@ -35,19 +37,27 @@ main = hakyllWith config $ do
       >>= loadAndApplyTemplate "templates/default.html" postCtx
       >>= relativizeUrls
 
-  create ["projects.html"] $ do
+  match "projects/*" $ do
+    route $ setExtension "html"
+    compile
+      $   pandocCompiler
+      >>= loadAndApplyTemplate "templates/post.html"    postCtx
+      >>= loadAndApplyTemplate "templates/default.html" postCtx
+      >>= relativizeUrls
+
+{-   create ["index.html"] $ do
     route idRoute
     compile $ do
-      posts <- recentFirst =<< loadAll "posts/*"
+      projects <- recentFirst =<< loadAll "projects/*"
       let projectsCtx =
-            listField "posts" postCtx (return posts)
-              `mappend` constField "title" "projects"
-              `mappend` siteCtx
+            listField "projects" siteCtx (return projects)
+              <> constField "title" "Hi!"
+              <> siteCtx
 
       makeItem ""
-        >>= loadAndApplyTemplate "templates/projects.html" projectsCtx
-        >>= loadAndApplyTemplate "templates/default.html"  projectsCtx
-        >>= relativizeUrls
+        >>= loadAndApplyTemplate "templates/gallery.html" projectsCtx
+        >>= loadAndApplyTemplate "templates/default.html" projectsCtx
+        >>= relativizeUrls -}
 
 
 {-   match "index.html" $ do
@@ -55,8 +65,8 @@ main = hakyllWith config $ do
       compile $ do
           posts <- recentFirst =<< loadAll "posts/*"
           let indexCtx =
-                  listField "posts" postCtx (return posts) `mappend`
-                  -- constField "title" "Home"                `mappend`
+                  listField "posts" postCtx (return posts) <>
+                  -- constField "title" "Home"                <>
                   siteCtx
           getResourceBody
               >>= applyAsTemplate indexCtx
@@ -70,19 +80,21 @@ main = hakyllWith config $ do
 
 
 postCtx :: Context String
-postCtx = dateField "date" "%B %e, %Y" `mappend` siteCtx
+postCtx =
+  dateField "date" "%B %e, %Y"
+    <> siteCtx
 
 siteCtx :: Context String
 siteCtx =
   constField "baseurl" "http://localhost:35729"
-    `mappend` constField "site_description"  "benedikt mayer | portfolio"
-    `mappend` constField "site_title"  "benedikt mayer | portfolio"
-    `mappend` constField "github_username"   "benedikt-mayer"
-    `mappend` constField "linkedin_username" "benedikt-mayer-7ab235132"
-    `mappend` constField "email_username" "benedikt_mayer"
-    `mappend` constField "email_domain" "outlook"
-    `mappend` constField "email_tld" "de"
-    `mappend` defaultContext
+    <> constField "site_description"  "benedikt mayer | portfolio"
+    <> constField "site_title"        "benedikt mayer | portfolio"
+    <> constField "github_username"   "benedikt-mayer"
+    <> constField "linkedin_username" "benedikt-mayer-7ab235132"
+    <> constField "email_username"    "benedikt_mayer"
+    <> constField "email_domain"      "outlook"
+    <> constField "email_tld"         "de"
+    <> defaultContext
 
 config :: Configuration
 config = defaultConfiguration { previewHost = "0.0.0.0", previewPort = 35729 }

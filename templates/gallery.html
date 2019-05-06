@@ -1,0 +1,15 @@
+<div class="gallery">
+    $for(projects)$
+        <div class="gallery-item">
+            <img src="$baseurl$/static/img/$project_image$"></img>
+            <div>
+                <h4>
+                    $project_title$
+                </h4>
+                <p>
+                    $project_description$
+                </p>
+            </div>
+        </div>
+    $endfor$
+</div>
