@@ -1,6 +1,6 @@
 ---
 title: About
-# headerImg: cover.jpg
+# headerImg: portrait.JPG
 ---
 
 ![portrait](../static/img/portrait.JPG){height="14em"} \
@@ -19,6 +19,10 @@ I've [co-written papers](https://scholar.google.de/citations?user=ZHmZq24AAAAJ&h
 
 &nbsp;
 
-Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
+Additionally I've [co-written a popular article featured on instructables.com](https://www.instructables.com/id/NFC-Timeline-Radio/)  about building a NFC timeline radio.  
 
 &nbsp;
+
+Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
+
+<!-- &nbsp; -->

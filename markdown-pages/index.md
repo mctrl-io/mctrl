@@ -3,11 +3,13 @@ title: Hi!
 # headerImg: cover.jpg 
 ---
 
-### I'm Benedikt, a computer science student based in Munich.
+## I'm Benedikt, a computer science student based in Munich.
 
 &nbsp;
 
-#### This is the construction site for my portfolio.
+### This is the construction site for my portfolio.
+
+### 
 
 &nbsp;
 

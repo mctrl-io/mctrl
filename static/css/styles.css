@@ -1,5 +1,4 @@
 * {
-    box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
@@ -12,11 +11,9 @@ body {
 
 body {
     display: grid;
-    grid-gap: 0.6em;
+    grid-gap: 1em;
     font-family: "Helvetica Neue", sans-serif;
-    grid-template-columns: 1fr;
     grid-template-rows: auto 1fr auto;
-    grid-row-gap: 0;
     grid-template-areas:
         "nav"
         "main"
@@ -41,10 +38,10 @@ main {
     grid-gap: 1em;
     grid-template-columns: repeat(5, [col] 1fr);
     grid-template-rows: repeat(2, [row] auto);
+    /* grid-template-rows: auto 1fr 1fr; */
 }
 
 .box {
-    border-radius: 0.5em;
     z-index: 10;
 }
 
@@ -52,7 +49,6 @@ main {
     grid-column: col 2 / span 3;
     grid-row: row;
     z-index: 20;
-    color: black;
     display: flex;
     align-items: center;
 }
@@ -61,22 +57,15 @@ main {
     border-bottom: 0.15em solid;
 }
 
-.cover {
-    grid-column: col 1 / span 5;
-    grid-row: row;
-    display: flex;
+.content>h2 {
+    font-size: 1.3em;
 }
 
-.cropped {
-    object-fit: cover;
-    width: 100%;
-    height: 25em;
-}
-
-.lower-content {
+.content {
     grid-column: col 2 / span 3;
     grid-row: row 2;
     font-size: 1.2em;
+    margin: 1em 0;
 }
 
 @media screen and (max-width: 767px) {
@@ -84,7 +73,7 @@ main {
         grid-gap: 0;
     }
 
-    .lower-content,
+    .content,
     .heading {
         grid-column: col 1 / span 5;
         grid-gap: 0;
@@ -96,18 +85,14 @@ main {
 /* footer */
 footer {
     grid-area: footer;
-    display: grid;
-    grid-gap: 1em;
-    grid-template-columns: repeat(5, [col] 1fr);
     background-color: lightgrey;
-    color: rgb(94, 94, 94);
+    color: rgb(61, 61, 61);
 }
 
 footer>.wrapper {
     margin: 2em;
-    grid-column: col 2 / span 3;
     display: grid;
-    grid-gap: 0.5em;
+    grid-gap: 1em;
     grid-template-rows: repeat(3, [row] 1fr);
 }
 
@@ -120,7 +105,6 @@ footer>.wrapper>.grid-item {
 
 footer>.wrapper>.grid-item>ul {
     list-style-type: none;
-    padding-top: 1em;
 }
 
 footer>.wrapper>.grid-item>ul>li {
@@ -184,11 +168,6 @@ footer>.wrapper>.grid-item>ul>li>a {
 }
 
 @media screen and (min-width: 768px) {
-    .navbar {
-        display: flex;
-        justify-content: space-between;
-    }
-
     .main-nav {
         display: flex;
         margin-right: 1em;
