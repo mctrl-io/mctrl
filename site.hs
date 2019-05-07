@@ -34,8 +34,6 @@ main = hakyllWith config $ do
 
   match "projects/*" $ version "meta" $ do
     route idRoute
-    -- compile $ do
-
 
   match "projects/*" $ do
     route $ gsubRoute "projects/" (const "") `composeRoutes` setExtension "html"
