@@ -1,12 +1,18 @@
 <!-- Post Header -->
 <main>
     <div class="box heading">
-        <h1>$title$</h1>
+        <h1>
+            $if(project_title)$
+                $project_title$
+            $else$ 
+                $title$ 
+            $endif$
+        </h1>
     </div>
     <div class="box content">
-        $body$
-        $if(gallery)$
-            $partial("templates/gallery.html")$
+        $body$ 
+        $if(gallery)$ 
+            $partial("templates/gallery.html")$ 
         $endif$
     </div>
 

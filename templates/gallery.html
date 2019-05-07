@@ -1,6 +1,7 @@
 <div class="gallery">
     $for(projects)$
-        <div class="gallery-item">
+    <div class="gallery-item">
+        <a href="$baseurl$/$project_slug$.html">
             <img alt="$project_image_alt_text$" src="$baseurl$/static/img/$project_image$"></img>
             <div>
                 <h4>
@@ -10,6 +11,7 @@
                     $project_description$
                 </p>
             </div>
-        </div>
+        </a>
+    </div>
     $endfor$
 </div>

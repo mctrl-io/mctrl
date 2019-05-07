@@ -12,16 +12,17 @@ import           Text.Pandoc
 
 main :: IO ()
 main = hakyllWith config $ do
+  -- css, js, images
   match "static/*/*" $ do
     route idRoute
     compile copyFileCompiler
 
+  -- main pages: index, about, contact
   match "markdown-pages/*" $ do
-    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
-      "html"
+    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension "html"
 
     compile $ do
-      let projectsCtx = listField "projects" siteCtx (loadAll "projects/*") <> postCtx
+      let projectsCtx = listField "projects" siteCtx (loadAll "projects/*") <> siteCtx
       getResourceBody
         >>= applyAsTemplate projectsCtx
         >>= renderPandoc
@@ -29,21 +30,38 @@ main = hakyllWith config $ do
         >>= loadAndApplyTemplate "templates/default.html" projectsCtx
         >>= relativizeUrls
 
-  match "posts/*" $ do
-    route $ setExtension "html"
-    compile
-      $   pandocCompiler
-      >>= loadAndApplyTemplate "templates/post.html"    postCtx
-      >>= loadAndApplyTemplate "templates/default.html" postCtx
-      >>= relativizeUrls
+  -- project pages for index and project sites like radio, thesis, ...
+
+  match "projects/*" $ version "meta" $ do
+    route idRoute
+    -- compile $ do
+
 
   match "projects/*" $ do
-    route $ setExtension "html"
-    compile
-      $   pandocCompiler
-      >>= loadAndApplyTemplate "templates/post.html"    postCtx
-      >>= loadAndApplyTemplate "templates/default.html" postCtx
-      >>= relativizeUrls
+    route $ gsubRoute "projects/" (const "") `composeRoutes` setExtension "html"
+    
+    compile $ do
+      postList <- loadAll ("projects/*" .&&. hasVersion "meta")
+      let projectsCtx = listField "projects" siteCtx (return postList) <> siteCtx
+
+      getResourceBody
+        >>= applyAsTemplate projectsCtx
+        >>= renderPandoc
+        >>= loadAndApplyTemplate "templates/page.html"    projectsCtx
+        >>= loadAndApplyTemplate "templates/default.html" projectsCtx
+        >>= relativizeUrls
+  
+  -- templates to construct everything else
+  match "templates/*" $ do
+    compile templateCompiler
+
+{- match "posts/*" $ do
+  route $ setExtension "html"
+  compile
+    $   pandocCompiler
+    >>= loadAndApplyTemplate "templates/post.html"    postCtx
+    >>= loadAndApplyTemplate "templates/default.html" postCtx
+    >>= relativizeUrls -}
 
 {-   create ["index.html"] $ do
     route idRoute
@@ -73,20 +91,21 @@ main = hakyllWith config $ do
               >>= loadAndApplyTemplate "templates/default.html" indexCtx
               >>= relativizeUrls -}
 
-  match "templates/*" $ compile templateCompiler
+  
 
 
 --------------------------------------------------------------------------------
 
-
+-- post context with date field
 postCtx :: Context String
 postCtx =
   dateField "date" "%B %e, %Y"
     <> siteCtx
 
+-- normal site context - used for all pages as of now.
 siteCtx :: Context String
 siteCtx =
-  constField "baseurl" "http://localhost:35729"
+  constField "baseurl" "http://localhost:35730"
     <> constField "site_description"  "benedikt mayer | portfolio"
     <> constField "site_title"        "benedikt mayer | portfolio"
     <> constField "github_username"   "benedikt-mayer"
@@ -96,5 +115,6 @@ siteCtx =
     <> constField "email_tld"         "de"
     <> defaultContext
 
+-- configuration for display
 config :: Configuration
 config = defaultConfiguration { previewHost = "0.0.0.0", previewPort = 35729 }

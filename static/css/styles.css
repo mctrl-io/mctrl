@@ -3,7 +3,9 @@
     margin: 0;
 }
 
+
 /* body */
+
 html,
 body {
     height: 100%;
@@ -14,24 +16,27 @@ body {
     grid-gap: 1em;
     font-family: "Helvetica Neue", sans-serif;
     grid-template-rows: auto 1fr auto;
-    grid-template-areas:
-        "nav"
-        "main"
-        "footer";
+    grid-template-areas: "nav" "main" "footer";
 }
 
+
 /* email obfuscation */
+
 .crypted-mail:after {
     content: attr(data-name) "@"attr(data-domain) "."attr(data-tld);
 }
 
+
 /* link color */
+
 a:link,
 a:visited {
     color: inherit;
 }
 
+
 /* main */
+
 main {
     grid-area: main;
     display: grid;
@@ -70,7 +75,6 @@ main {
     main {
         grid-gap: 0;
     }
-
     .content,
     .heading {
         grid-column: col 1 / span 5;
@@ -80,7 +84,9 @@ main {
     }
 }
 
+
 /* main - gallery */
+
 .gallery {
     width: inherit;
     display: grid;
@@ -107,21 +113,27 @@ main {
     align-items: center;
 }
 
-.gallery-item:hover{
-    box-shadow: 0 0.5em 1em 0 rgba(0,0,0,0.2);
+.gallery-item:hover {
+    box-shadow: 0 0.5em 1em 0 rgba(0, 0, 0, 0.2);
 }
 
-.gallery-item>img {
+.gallery-item>a {
+    text-decoration: none;
+}
+
+.gallery-item>a>img {
     width: 100%;
 }
 
-.gallery-item>div{
+.gallery-item>a>div {
     display: flex;
     flex-flow: row wrap;
     margin: 0.5em;
 }
 
+
 /* footer */
+
 footer {
     grid-area: footer;
     background-color: lightgrey;
@@ -164,7 +176,9 @@ footer>.wrapper>.grid-item>ul>li>a {
     }
 }
 
+
 /* navigation */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -200,7 +214,6 @@ footer>.wrapper>.grid-item>ul>li>a {
         display: flex;
         flex-direction: column;
     }
-
     .active>li {
         margin: 1em;
     }
@@ -213,15 +226,12 @@ footer>.wrapper>.grid-item>ul>li>a {
         flex-direction: row;
         justify-content: flex-end;
     }
-
     .nav-links {
         margin-left: 2em;
     }
-
     .navbar-toggle {
         display: none;
     }
-
     .logo:hover,
     .nav-links:hover {
         border-bottom: 0.1em solid black;

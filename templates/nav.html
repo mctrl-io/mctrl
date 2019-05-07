@@ -14,6 +14,14 @@
             <a class="nav-links" href="$baseurl$/contact.html">contact</a>
         </li>
         <li>
+            <a class="nav-links" href="#">projects</a>
+            <ul class="dropdown">
+                $for(projects)$
+                    <h1>$project_slug$</h1>
+                $endfor$
+            </ul>
+        </li>
+        <li>
             <a aria-label="link to my Github profile" class="nav-links" href="https://www.github.com/$github_username$" target="_blank" rel="noreferrer">
                 <i aria-hidden="true" class="fab fa-github"></i> $github_username$
             </a>
