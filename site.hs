@@ -33,7 +33,6 @@ main = hakyllWith config $ do
         >>= relativizeUrls
 
   -- project pages for index and project sites like radio, thesis, ...
-
   match "projects/*" $ version "meta" $ do
     route idRoute
 
