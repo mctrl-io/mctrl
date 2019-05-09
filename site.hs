@@ -3,7 +3,7 @@
 
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid
-import           Control.Monad (filterM)
+import           Control.Monad                  ( filterM )
 import           Hakyll
 import           Text.Pandoc
 
@@ -19,10 +19,12 @@ main = hakyllWith config $ do
 
   -- main pages: index, about, contact
   match "markdown-pages/*" $ do
-    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension "html"
+    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
+      "html"
 
     compile $ do
-      let projectsCtx = listField "projects" siteCtx (loadAll "projects/*") <> siteCtx
+      let projectsCtx =
+            listField "projects" siteCtx (loadAll "projects/*") <> siteCtx
       getResourceBody
         >>= applyAsTemplate projectsCtx
         >>= renderPandoc
@@ -37,10 +39,11 @@ main = hakyllWith config $ do
 
   match "projects/*" $ do
     route $ gsubRoute "projects/" (const "") `composeRoutes` setExtension "html"
-    
+
     compile $ do
       postList <- loadAll ("projects/*" .&&. hasVersion "meta")
-      let projectsCtx = listField "projects" siteCtx (return postList) <> siteCtx
+      let projectsCtx =
+            listField "projects" siteCtx (return postList) <> siteCtx
 
       getResourceBody
         >>= applyAsTemplate projectsCtx
@@ -48,7 +51,7 @@ main = hakyllWith config $ do
         >>= loadAndApplyTemplate "templates/page.html"    projectsCtx
         >>= loadAndApplyTemplate "templates/default.html" projectsCtx
         >>= relativizeUrls
-  
+
   -- templates to construct everything else
   match "templates/*" $ do
     compile templateCompiler
@@ -89,16 +92,14 @@ main = hakyllWith config $ do
               >>= loadAndApplyTemplate "templates/default.html" indexCtx
               >>= relativizeUrls -}
 
-  
+
 
 
 --------------------------------------------------------------------------------
 
 -- post context with date field
 postCtx :: Context String
-postCtx =
-  dateField "date" "%B %e, %Y"
-    <> siteCtx
+postCtx = dateField "date" "%B %e, %Y" <> siteCtx
 
 -- normal site context - used for all pages as of now.
 siteCtx :: Context String

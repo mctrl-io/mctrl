@@ -16,7 +16,7 @@ body {
     grid-gap: 1em;
     font-family: "Helvetica Neue", sans-serif;
     grid-template-rows: auto 1fr auto;
-    grid-template-areas: "nav" "main" "footer";
+    grid-template-areas: "nav""main""footer";
 }
 
 
@@ -75,6 +75,7 @@ main {
     main {
         grid-gap: 0;
     }
+
     .content,
     .heading {
         grid-column: col 1 / span 5;
@@ -184,7 +185,6 @@ footer>.wrapper>.grid-item>ul>li>a {
     justify-content: space-between;
     font-size: 1.2em;
     margin: 1em;
-    align-items: center;
     flex-wrap: wrap;
 }
 
@@ -208,12 +208,42 @@ footer>.wrapper>.grid-item>ul>li>a {
     font-size: 1.5em;
 }
 
+/* dropdown */
+.main-nav>li>ul {
+    list-style: none;
+}
+
+.dropdown-content>li {
+    display: none;
+    padding-top: 0.8em;
+    margin-right: 2em;
+}
+
+.dropdown-content>li:last-child {
+    padding-bottom: 2em;
+}
+
+.dropdown:hover .dropdown-content>li {
+    display: block;
+}
+
+.dropdown-content a {
+    display: block;
+}
+
+.dropdown-content {
+    position: absolute;
+}
+
+
+
 @media screen and (max-width: 767px) {
     .active {
         width: 100%;
         display: flex;
         flex-direction: column;
     }
+
     .active>li {
         margin: 1em;
     }
@@ -226,12 +256,15 @@ footer>.wrapper>.grid-item>ul>li>a {
         flex-direction: row;
         justify-content: flex-end;
     }
+
     .nav-links {
         margin-left: 2em;
     }
+
     .navbar-toggle {
         display: none;
     }
+
     .logo:hover,
     .nav-links:hover {
         border-bottom: 0.1em solid black;

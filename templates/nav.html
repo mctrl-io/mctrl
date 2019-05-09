@@ -13,16 +13,20 @@
         <li>
             <a class="nav-links" href="$baseurl$/contact.html">contact</a>
         </li>
-        <li>
-            <a class="nav-links" href="#">projects</a>
-            <ul class="dropdown">
+        <li class="dropdown">
+            <span class="nav-links">projects</span>
+            <!-- <a class="nav-links" href="#">projects</a> -->
+            <ul class="dropdown-content">
                 $for(projects)$
-                    <h1>$project_slug$</h1>
+                <li>
+                    <a class="nav-links" href="$baseurl$/$project_slug$.html">$project_slug$</a>
+                </li>
                 $endfor$
             </ul>
         </li>
         <li>
-            <a aria-label="link to my Github profile" class="nav-links" href="https://www.github.com/$github_username$" target="_blank" rel="noreferrer">
+            <a aria-label="link to my Github profile" class="nav-links" href="https://www.github.com/$github_username$"
+                target="_blank" rel="noreferrer">
                 <i aria-hidden="true" class="fab fa-github"></i> $github_username$
             </a>
         </li>
