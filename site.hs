@@ -1,27 +1,21 @@
 --------------------------------------------------------------------------------
 
-
-
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid
 import           Control.Monad                  ( filterM )
 import           Hakyll
 import           Text.Pandoc
 
-
 --------------------------------------------------------------------------------
-
 
 main :: IO ()
 main = hakyllWith config $ do
   -- css, js, images
-
   match "static/*/*" $ do
     route idRoute
     compile copyFileCompiler
 
   -- main pages: index, about, contact
-
   match "markdown-pages/*" $ do
     route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
       "html"
@@ -37,12 +31,12 @@ main = hakyllWith config $ do
         >>= loadAndApplyTemplate "templates/default.html" projectsCtx
         >>= relativizeUrls
 
-  -- project pages for index and project sites like radio, thesis, ...
-
+  -- dummy compile to independently get meta information out of the projects pages like image links, titles, slugs, ...
   match "projects/*" $ version "meta" $ do
     route idRoute
     compile getResourceBody
 
+  -- project pages for index and project sites like radio, thesis, ...
   match "projects/*" $ do
     route $ gsubRoute "projects/" (const "") `composeRoutes` setExtension "html"
 
@@ -59,7 +53,6 @@ main = hakyllWith config $ do
         >>= relativizeUrls
 
   -- templates to construct everything else
-
   match "templates/*" $ compile templateCompiler
 
 {- match "posts/*" $ do
@@ -97,7 +90,6 @@ main = hakyllWith config $ do
               >>= relativizeUrls -}
 
 --------------------------------------------------------------------------------
-
 
 -- post context with date field
 postCtx :: Context String

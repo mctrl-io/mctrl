@@ -5,3 +5,9 @@ project_image: radio_square.jpg
 project_image_alt_text: A wooden retro radio with a red slider in front of a e-ink display.
 project_slug: radio
 ---
+
+![project image](../static/img/$project_image$){height="14em"} \
+
+&nbsp;
+
+$project_description$
