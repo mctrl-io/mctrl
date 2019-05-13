@@ -1,0 +1,3 @@
+[submodule "infovis-jsonly"]
+	path = infovis-jsonly
+	url = https://github.com/benedikt-mayer/infovis-jsonly.git
