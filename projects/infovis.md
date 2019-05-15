@@ -8,7 +8,7 @@ project_description_scatterplot: With this scatterplot, we try to find interesti
 project_image: infovis_square.png
 project_image_alt_text: A scatter plot of sentiments of newspaper articles.
 project_slug: infovis
-visualizations: True
+visualizations: False
 ---
 
 This is a project conducted during the [information visualization lecture](http://www.medien.ifi.lmu.de/lehre/ws1819/iv/index.xhtml.en) at LMU Munich.
