@@ -10,15 +10,6 @@ import           Text.Pandoc
 
 main :: IO ()
 main = hakyllWith config $ do
-  -- js from infovis project
-  match "infovis-jsonly/scripts/*" $ do
-    route $ gsubRoute "infovis-jsonly/scripts/" (const "static/js/")
-    compile copyFileCompiler
-
-  -- css from infovis project
-  match "infovis-jsonly/styles/*" $ do
-    route $ gsubRoute "infovis-jsonly/styles/" (const "static/css/")
-    compile copyFileCompiler
     
   -- css, js, images
   match "static/*/*" $ do
