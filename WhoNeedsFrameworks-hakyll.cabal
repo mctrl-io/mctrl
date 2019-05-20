@@ -1,19 +1,19 @@
-name:                CleanMagic-hakyll
-version:             0.1.0.0
+name:                WhoNeedsFrameworks-hakyll
+version:             0.2.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/katychuang/CleanMagic-hakyll#readme
+homepage:            https://github.com/benedikt-mayer/benedikt-mayer.github.io
 license:             BSD3
 license-file:        LICENSE
-author:              Katy Chuang
-maintainer:          katychuang@gmail.com
-copyright:           2018 Katy Chuang
+author:              Benedikt Mayer
+maintainer:          benedikt_mayer@outlook.de
+copyright:           2019 Benedikt Mayer
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
 
-executable CleanMagic-hakyll
+executable WhoNeedsFrameworks-hakyll
   main-is:             site.hs
   default-language:    Haskell2010
   ghc-options:         -threaded

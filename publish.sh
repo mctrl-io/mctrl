@@ -7,7 +7,7 @@ echo "setting base url to github url"
 sed -i 's+http://localhost:35730+https://benedikt-mayer.github.io+g' site.hs
 # Build new files
 stack build
-stack exec CleanMagic-hakyll rebuild
+stack exec WhoNeedsFrameworks-hakyll rebuild
 # replace base url with localhost again
 echo "setting base url back to localhost"
 sed -i 's+https://benedikt-mayer.github.io+http://localhost:35730+g' site.hs
