@@ -8,7 +8,7 @@ project_slug: android
 ---
 
 ::: right
-![project image](../static/img/android.jpg)\
+![Two screens: left it shows a map with buildings marked by pins, right it shows a building plan with rooms marked by pins.](../static/img/android.jpg)\
 _The explore and find stages._
 :::
 
@@ -31,7 +31,7 @@ The frame for project this was a [lab course on location aware apps](http://www.
 &nbsp;
 
 ::: left
-![project image](../static/img/android_stack.jpg)\
+![The icons for our tech stack: Spring, REST, mongoDB, Jaunt, Kotlin.](../static/img/android_stack.jpg)\
 :::
 
 ## Tech Stack
@@ -53,7 +53,7 @@ Using server-side filtering, the client only receives the data it needs and can 
 &nbsp;
 
 ::: right
-![project image](../static/img/android_intro.jpg)\
+![Three intro screens describing the explore, find, filter model.](../static/img/android_intro.jpg)\
 _The intro: explore, find, filter._
 :::
 
