@@ -26,7 +26,7 @@ main = hakyllWith config $ do
       let projectsCtx =
             listField "projects" siteCtx (return postList) <> siteCtx
       getResourceBody
-        >>= applyAsTemplate projectsCtx
+        -- >>= applyAsTemplate projectsCtx
         >>= renderPandoc
         >>= loadAndApplyTemplate "templates/main.html"    projectsCtx
         >>= loadAndApplyTemplate "templates/default.html" projectsCtx

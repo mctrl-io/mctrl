@@ -6,12 +6,24 @@ project_image_alt_text: An Android app with two maps, one of the surrounding bui
 project_slug: android
 ---
 
-![project image](../static/img/$project_image$){height="14em"} \
+<!-- <img style="float: right;" src="whatever.jpg"> -->
+
+<img src="../static/img/android_square.png" alt="project image" style="float:right;height:14em" >
 
 &nbsp;
 
-$project_description$ With this question in mind, we built a unique Android app, focussing on an easy an accessible way to get location aware information.  
+<!-- <div style="clear: right"> -->
+::: asd
+    Which lectures and free rooms are around me? With this question in mind, we built a unique **Android** app, focussing on an easy and accessible way to get location aware information.  
+:::
+<!-- </div>     -->
 
 &nbsp;
 
-![project image](../static/img/android_intro.png){height="14em"} \
+<img src="../static/img/android_stack.png" alt="project image" style="float:right;height:14em" >
+
+The project contains a backend written in **Java Spring** and accesses a **Mongo Database** with the crawled data we gained via **Jaunt** from the course catalog **LSF**.
+
+<img src="../static/img/android_intro.png" alt="project image" style="float:right;height:14em" >
+
+The frontend was written in **Kotlin** for **Android**, connecting to the backend via a **Rest API**.

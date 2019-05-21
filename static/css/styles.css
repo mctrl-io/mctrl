@@ -71,6 +71,11 @@ main {
     margin: 1em 0;
 }
 
+/* main - project pages */
+.article-image{
+    height: 14em;
+}
+
 /* main - gallery */
 .gallery {
     width: inherit;
