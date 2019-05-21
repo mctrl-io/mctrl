@@ -4,7 +4,7 @@ project_description: In my bachelor thesis, ... consectetur adipiscing elit, sed
 project_image: thesis_square.jpg
 project_image_small: thesis_square.jpg
 project_image_alt_text: A VR scene with two hands manipulating a distant cube.
-project_slug: thesis
+slug: thesis
 ---
 
 ![project image](../static/img/$project_image$){height="14em"} \

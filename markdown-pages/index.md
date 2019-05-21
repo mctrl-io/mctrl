@@ -1,6 +1,7 @@
 ---
 title: Hi!
 gallery: True
+slug: index
 # headerImg: cover.jpg 
 ---
 
