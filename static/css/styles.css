@@ -72,7 +72,20 @@ main {
 }
 
 /* main - project pages */
-.article-image{
+
+.right{
+    float:right;
+}
+
+.left{
+    float: left;
+}
+
+.left, .right{
+    margin: 0 1em;
+}
+
+p>img{
     height: 14em;
 }
 
