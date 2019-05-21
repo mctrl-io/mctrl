@@ -3,7 +3,7 @@ title: About
 # headerImg: portrait.JPG
 ---
 
-![portrait](../static/img/portrait.jpg){height="14em"} \
+![portrait](../static/img/portrait.JPG){height="14em"} \
 
 &nbsp;
 
