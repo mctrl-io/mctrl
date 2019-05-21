@@ -1,13 +1,14 @@
 ---
 project_title: Campus Explorer
 project_description: Which lectures and free rooms are around me?
-project_image: android_square.png
+project_image: android_square.jpg
+project_image_small: android_square.jpg
 project_image_alt_text: An Android app with two maps, one of the surrounding buildings and one of the selected building.
 project_slug: android
 ---
 
 ::: right
-![project image](../static/img/android.png)\
+![project image](../static/img/android.jpg)\
 _The explore and find stages._
 :::
 
@@ -30,7 +31,7 @@ The frame for project this was a [lab course on location aware apps](http://www.
 &nbsp;
 
 ::: left
-![project image](../static/img/android_stack.png)\
+![project image](../static/img/android_stack.jpg)\
 :::
 
 ## Tech Stack
@@ -52,7 +53,7 @@ Using server-side filtering, the client only receives the data it needs and can 
 &nbsp;
 
 ::: right
-![project image](../static/img/android_intro.png)\
+![project image](../static/img/android_intro.jpg)\
 _The intro: explore, find, filter_
 :::
 
