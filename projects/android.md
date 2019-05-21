@@ -12,11 +12,9 @@ project_slug: android
 
 &nbsp;
 
-<!-- <div style="clear: right"> -->
-::: asd
-    Which lectures and free rooms are around me? With this question in mind, we built a unique **Android** app, focussing on an easy and accessible way to get location aware information.  
-:::
-<!-- </div>     -->
+Which lectures and free rooms are around me?  
+With this question in mind, we built a unique **Android** app, focussing on an easy and accessible way to get location aware information.  
+
 
 &nbsp;
 
