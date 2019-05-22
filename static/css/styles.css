@@ -101,32 +101,6 @@ main {
     height: 20em;
 }
 
-@media screen and (max-width: 767px) {
-    .paragraph{
-        grid-template-rows: repeat(2, [col] auto);
-        grid-template-columns: unset;
-        grid-gap: 1em;
-    }
-
-    .image {
-        grid-row: 2;
-        display: flex;
-        justify-content: center;
-    }
-
-    .text {
-        grid-row: 1;
-    }
-
-    .image, .text{
-        grid-column: unset;
-    }
-
-    .article {
-        grid-gap: 2em;
-    }
-}
-
 /* main - gallery */
 .gallery {
     width: inherit;
@@ -176,6 +150,31 @@ main {
     .gallery {
         grid-gap: 2em;
         grid-template-rows: repeat(3, [row] 1fr)
+    }
+
+    /* project pages */
+    .paragraph{
+        grid-template-rows: repeat(2, [col] auto);
+        grid-template-columns: unset;
+        grid-gap: 1em;
+    }
+
+    .image {
+        grid-row: 2;
+        display: flex;
+        justify-content: center;
+    }
+
+    .text {
+        grid-row: 1;
+    }
+
+    .image, .text{
+        grid-column: unset;
+    }
+
+    .article {
+        grid-gap: 2em;
     }
 }
 
