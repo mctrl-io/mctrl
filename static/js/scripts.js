@@ -9,7 +9,7 @@ navBarToggle.addEventListener("click", function () {
     navBarToggle.children[0].classList.toggle("fa-bars")
     navBarToggle.children[0].classList.toggle("fa-times")
 })
-console.log(imageContainers)
+
 imageContainers.forEach(imageContainer => {
     imageContainer.addEventListener("click", function () {
         captions = [...imageContainer.getElementsByClassName("caption")]
