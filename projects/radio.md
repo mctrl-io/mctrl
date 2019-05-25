@@ -1,6 +1,6 @@
 ---
 project_title: NFC Timeline Radio
-project_description: In a project on media systems, we built a modern nfc radio with retro looks.
+project_description: We built a modern NFC radio with retro looks for a project on media systems.
 project_image: radio_square.jpg
 project_image_small: radio_square_small.jpg
 project_image_alt_text: A wooden retro radio with a red slider in front of a e-ink display.
@@ -58,10 +58,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra velit qui
 ::: 
 
 ::: image
-![Our laser-cut NFC Radio.](../static/img/radio_construction.jpg) \
+![A preview of the lasercut wooden frontal and top part of our radio.](../static/img/radio_construction.jpg) \
 
 ::: caption
-Our laser-cut NFC Radio.
+Laser cutting to cunstruct our wooden radio.
 ::: 
 :::
 :::
