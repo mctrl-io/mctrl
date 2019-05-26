@@ -69,7 +69,7 @@ Laser cutting to cunstruct our wooden radio.
 ::: paragraph
 ::: image
 ::: video
-<iframe src="https://www.youtube.com/embed/Fbv3RyXO0YM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Fbv3RyXO0YM" title="YouTube video of the NFC radio." frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 :::
 :::
 
