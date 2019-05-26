@@ -1,6 +1,6 @@
 ---
 project_title: Interaction in VR
-project_description: In my bachelor thesis and a follow-up paper, I explored eye-tracking and gesture interaction in virtual reality.
+project_description: In my bachelor thesis and a follow-up paper, I explored eye-tracking and gesture interaction in VR.
 project_image: thesis.jpg
 project_image_small: thesis.jpg
 project_image_alt_text: A VR scene with two hands manipulating a distant cube.
@@ -9,6 +9,25 @@ slug: thesis
 
 
 ::: article
+::: paragraph
+::: image
+::: video
+<iframe src="https://www.youtube.com/embed/NzLrZSF8aDM" title="YouTube video of the Gaze+Pinch technique." frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+:::
+
+::: text
+## Gaze + Pinch in Action
+
+&nbsp;
+
+The accommodating paper co-written with [Ken Pfeuffer](https://kenpfeuffer.com/) was published to the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3132180) for [the 5th ACM Symposium on Spatial User Interaction (SUI 2017)](http://www.sui2017.org/).  
+
+&nbsp; 
+
+You can find more publications of mine on [Google Scholar](https://scholar.google.de/citations?user=ZHmZq24AAAAJ&hl=en). There is also a [full talk about the Gaze+Pinch paper](https://www.youtube.com/watch?v=YdKT42tZdQE) given by my colleague Ken Pfeuffer at SUI 2017.
+:::
+:::
 ::: paragraph
 ::: text
 ## Eye-Tracking and Gestures in VR
@@ -82,26 +101,6 @@ In this scene, we demonstrate how one can easily use eye gaze for selection (ind
 ::: caption
 In a 3D living room scene, the user can rearrange their furniture by using gaze + pinch.
 ::: 
-:::
-:::
-
-::: paragraph
-::: image
-::: video
-<iframe src="https://www.youtube.com/embed/NzLrZSF8aDM" title="YouTube video of the Gaze+Pinch technique." frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-:::
-:::
-
-::: text
-## Gaze + Pinch in Action
-
-&nbsp;
-
-The accommodating paper co-written with [Ken Pfeuffer](https://kenpfeuffer.com/) was published to the [ACM Digital Library](https://dl.acm.org/citation.cfm?id=3132180) for [the 5th ACM Symposium on Spatial User Interaction (SUI 2017)](http://www.sui2017.org/).  
-
-&nbsp; 
-
-You can find more publications of mine on [Google Scholar](https://scholar.google.de/citations?user=ZHmZq24AAAAJ&hl=en). There is also a [full talk about the Gaze+Pinch paper](https://www.youtube.com/watch?v=YdKT42tZdQE) given by my colleague Ken Pfeuffer at SUI 2017.
 :::
 :::
 

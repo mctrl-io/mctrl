@@ -5,18 +5,19 @@ slug: index
 # headerImg: cover.jpg 
 ---
 
-## I'm Benedikt, a computer science student based in Munich.
+## I'm Benedikt, a Computer Science Student based in Munich.
 
 &nbsp;
 
 
 <!-- ### This is the construction site for my portfolio. -->
 
----
+::: non-bold
 
 &nbsp;
 
 ### Recent Projects
+:::
 
 &nbsp;
 

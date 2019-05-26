@@ -26,4 +26,12 @@ Additionally I've [co-written a popular article featured on instructables.com](h
 
 Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
 
-<!-- &nbsp; -->
+&nbsp;
+
+Feel free to contact me at
+<a href="#" class="crypted-mail"
+   data-name="$email_username$"
+   data-domain="$email_domain$"
+   data-tld="$email_tld$"
+   onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;">
+</a>.
