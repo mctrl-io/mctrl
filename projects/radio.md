@@ -14,10 +14,16 @@ slug: radio
 
 &nbsp;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra velit quis dolor ultricies tincidunt. Vestibulum at venenatis nisl, non eleifend libero. Curabitur sodales et ipsum at venenatis. Cras dui ipsum, eleifend eu malesuada id, tempor at lectus. Vivamus dictum, mi et condimentum dictum, velit purus dignissim leo, nec scelerisque nisi eros viverra mauris. Curabitur vulputate urna nibh. Maecenas vel tortor ac est lobortis euismod scelerisque sit amet libero. Etiam vel pulvinar velit. Vestibulum porta, nunc et dictum accumsan, nibh libero vestibulum lorem, et ultricies arcu metus scelerisque odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed.
+In a lab project at the [department of human-centered ubiquitous media](https://www.en.um.informatik.uni-muenchen.de/index.html) we were challenged to create a modern music player which references traditional radio design.  
 
+&nbsp; 
 
-$project_description$
+Our prototype has two e-paper screens, one showing the currently playing song and one showing a selection of songs of a particular genre.  
+
+&nbsp; 
+
+To choose a song, the user can turn the "Song" knob and thereby move the red bar across the lower screen.  
+The genre can be chosen by placing a nfc tag on top of the device.
 ::: 
 
 ::: image
@@ -54,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra velit qui
 
 &nbsp;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra velit quis dolor ultricies tincidunt. Vestibulum at venenatis nisl, non eleifend libero. Curabitur sodales et ipsum at venenatis. Cras dui ipsum, eleifend eu malesuada id, tempor at lectus. Vivamus dictum, mi et condimentum dictum, velit purus dignissim leo, nec scelerisque nisi eros viverra mauris. Curabitur vulputate urna nibh. Maecenas vel tortor ac est lobortis euismod scelerisque sit amet libero. Etiam vel pulvinar velit. Vestibulum porta, nunc et dictum accumsan, nibh libero vestibulum lorem, et ultricies arcu metus scelerisque odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed.
+Our final prototype contains two Raspberry Pis as well as an Arduino to drive the two e-ink displays as well as all the analog potentiometers and motors.
 ::: 
 
 ::: image
