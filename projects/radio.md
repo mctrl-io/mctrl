@@ -1,8 +1,8 @@
 ---
 project_title: NFC Timeline Radio
 project_description: We built a modern NFC radio with retro looks for a project on media systems.
-project_image: radio_square.jpg
-project_image_small: radio_square_small.jpg
+project_image: radio.jpg
+project_image_small: radio_small.jpg
 project_image_alt_text: A wooden retro radio with a red slider in front of a e-ink display.
 slug: radio
 ---
@@ -10,7 +10,7 @@ slug: radio
 ::: article
 ::: paragraph
 ::: text
-## New features, classic design?
+## New Features, Classic Design?
 
 &nbsp;
 
@@ -46,7 +46,7 @@ German radio receiver "Carmen" from Nordmende, image from [flickr](https://www.f
 :::
 
 ::: text
-## Classic Radio elements
+## Classic Radio Elements
 
 &nbsp;
 
@@ -98,7 +98,7 @@ Laser cutting to cunstruct our wooden radio.
 :::
 
 ::: text
-## The Finished Product in action
+## The Finished Product in Action
 
 &nbsp;
 
