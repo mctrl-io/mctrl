@@ -12,7 +12,7 @@
                 </li>
                 $endif$ $if(email_username)$
                 <li>
-                    <a href="mailto:" data-name="$email_username$" data-domain="$email_domain$"
+                    <a aria-label="link to write me an email" href="mailto:" data-name="$email_username$" data-domain="$email_domain$"
                         data-tld="$email_tld$"
                         onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;">
                         <i aria-hidden="true" class="fas fa-2x fa-envelope"></i>

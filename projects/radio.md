@@ -2,7 +2,6 @@
 project_title: NFC Timeline Radio
 project_description: We built a modern NFC radio with retro looks for a project on media systems.
 project_image: radio.jpg
-project_image_small: radio_small.jpg
 project_image_alt_text: A wooden retro radio with a red slider in front of a e-ink display.
 slug: radio
 ---
