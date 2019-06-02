@@ -4,9 +4,9 @@ slug: about
 # headerImg: portrait.JPG
 ---
 
-![portrait](../static/img/portrait.jpg){height="14em"} \
-
-&nbsp;
+::: article
+::: paragraph
+::: text
 
 I'm a software developer / researcher / data scientist based in Munich interested in human-computer interaction, machine learning, functional programming, data visualization and mixed reality.  
 
@@ -20,18 +20,21 @@ I've [co-written papers](https://scholar.google.de/citations?user=ZHmZq24AAAAJ&h
 
 &nbsp;
 
-Additionally I've [co-written a popular article featured on instructables.com](https://www.instructables.com/id/NFC-Timeline-Radio/)  about building a NFC timeline radio.  
-
-&nbsp;
-
 Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
 
 &nbsp;
 
 Feel free to contact me at
-<a href="#" class="crypted-mail"
+<a href="mailto:" class="crypted-mail"
    data-name="$email_username$"
    data-domain="$email_domain$"
    data-tld="$email_tld$"
    onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;">
 </a>.
+
+:::
+::: image
+![Portrait](../static/img/portrait.jpg){height="14em"} \
+:::
+:::
+:::
