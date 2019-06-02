@@ -1,7 +1,7 @@
 ---
 project_title: Interaction in VR
 project_description: In my bachelor thesis and a follow-up paper, I explored eye-tracking and gesture interaction in VR.
-project_image: thesis.jpg
+project_image: thesis_squared.jpg
 project_image_alt_text: A VR scene with two hands manipulating a distant cube.
 slug: thesis
 ---
@@ -30,7 +30,7 @@ You can find more publications of mine on [Google Scholar](https://scholar.googl
 
 
 ::: image
-![Basic 3D interaction with gaze + pinch to manipulate cubes in a VR setting.](../static/img/$project_image$) \
+![Basic 3D interaction with gaze + pinch to manipulate cubes in a VR setting.](../static/img/thesis.jpg) \
 
 ::: caption
 Basic 3D interaction with gaze + pinch.
