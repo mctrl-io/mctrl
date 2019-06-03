@@ -16,36 +16,20 @@ main = hakyllWith config $ do
     route idRoute
     compile copyFileCompiler
 
+  -- dummy compile to independently get meta information out of the projects pages like image links, titles, slugs, ...
+  match "pages/projects/*" $ version "meta" $ do
+    route idRoute
+    compile getResourceBody
+    
   -- main pages: index, about, contact
-  match "markdown-pages/*" $ do
-    route $ gsubRoute "markdown-pages/" (const "") `composeRoutes` setExtension
+  match "pages/**" $ do
+    route $ gsubRoute "pages/" (const "") `composeRoutes` gsubRoute "projects/" (const "") `composeRoutes` setExtension
       "html"
 
     compile $ do
-      postList <- loadAll ("projects/*" .&&. hasVersion "meta")
+      postList <- loadAll ("pages/projects/*" .&&. hasVersion "meta")
       let projectsCtx =
             listField "projects" siteCtx (return postList) <> siteCtx
-      getResourceBody
-        >>= applyAsTemplate projectsCtx
-        >>= renderPandoc
-        >>= loadAndApplyTemplate "templates/main.html"    projectsCtx
-        >>= loadAndApplyTemplate "templates/default.html" projectsCtx
-        >>= relativizeUrls
-
-  -- dummy compile to independently get meta information out of the projects pages like image links, titles, slugs, ...
-  match "projects/*" $ version "meta" $ do
-    route idRoute
-    compile getResourceBody
-
-  -- project pages for index and project sites like radio, thesis, ...
-  match "projects/*" $ do
-    route $ gsubRoute "projects/" (const "") `composeRoutes` setExtension "html"
-
-    compile $ do
-      postList <- loadAll ("projects/*" .&&. hasVersion "meta")
-      let projectsCtx =
-            listField "projects" siteCtx (return postList) <> siteCtx
-
       getResourceBody
         >>= applyAsTemplate projectsCtx
         >>= renderPandoc

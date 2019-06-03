@@ -15,8 +15,8 @@
     <!-- Viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Site Desciption -->
-    $if(site_description)$
-    <meta name="description" content="$site_description$">
+    $if(site_title)$
+    <meta name="description" content="$site_title$">
     $endif$
     <!-- keywords -->
     <meta name="keywords"
@@ -28,8 +28,8 @@
     <title>$site_title$</title>
     $endif$
     <!-- Property Metas -->
-    $if(site_description)$
-    <meta property="og:title" content="$site_description$" />
+    $if(site_title)$
+    <meta property="og:title" content="$site_title$" />
     $endif$
     <meta property="og:site_name" content="$site_title$" />
     <meta property="og:image" content="$baseurl$static/img/portrait.JPG">
