@@ -21,7 +21,7 @@ main = hakyllWith config $ do
     route idRoute
     compile getResourceBody
     
-  -- main pages: index, about, contact
+  -- all pages: index, about and all project pages
   match "pages/**" $ do
     route $ gsubRoute "pages/" (const "") `composeRoutes` gsubRoute "projects/" (const "") `composeRoutes` setExtension
       "html"
@@ -37,7 +37,7 @@ main = hakyllWith config $ do
         >>= loadAndApplyTemplate "templates/default.html" projectsCtx
         >>= relativizeUrls
 
-  -- templates to construct everything else
+  -- HTML templates like footer, head, etc.
   match "templates/*" $ compile templateCompiler
 
 --------------------------------------------------------------------------------
