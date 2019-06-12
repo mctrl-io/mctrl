@@ -20,7 +20,7 @@ I've [co-written papers](https://scholar.google.de/citations?user=ZHmZq24AAAAJ&h
 
 &nbsp;
 
-Presently I'm working as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich and am responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
+My most recent position was as a Research Assistant at the [Usable Security and Privacy group of Bundeswehr University](https://www.unibw.de/usable-security-and-privacy/) in Munich where I was responsible for the BehaVR lab, along with supervision on topics ranging from VR/AR to gaze interaction, motion tracking and machine learning.  
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Feel free to contact me at
 
 :::
 ::: image
-![Portrait](../static/img/portrait.jpg){height="14em"} \
+![Portrait](../static/img/portrait.jpg){height="16em"} \
 :::
 :::
 :::
