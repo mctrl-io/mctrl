@@ -10,6 +10,8 @@ slug: about
 
 I'm a software developer / researcher / data scientist based in Munich interested in human-computer interaction, machine learning, functional programming, data visualization and mixed reality.  
 
+I work at Microsoft Munich in the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc) building demos for our showroom in the domain of Machine Learning.
+
 &nbsp;
 
 Currently, I'm studying computer science (M.Sc.) at [LMU Munich](https://www.en.uni-muenchen.de/index.html). Previously, I've completed my bachelor of Media Informatics at LMU Munich, writing my bachelor thesis at [Lancaster University](https://www.lancaster.ac.uk/) about Interaction in VR.  
