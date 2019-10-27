@@ -1,7 +1,6 @@
 ---
 title: About
 slug: about
-# headerImg: portrait.JPG
 ---
 
 ::: article
@@ -10,7 +9,7 @@ slug: about
 
 I'm a software developer / researcher / data scientist based in Munich interested in human-computer interaction, machine learning, functional programming, data visualization and mixed reality.  
 
-I work at Microsoft Munich in the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc) building demos for our showroom in the domain of Machine Learning.
+I work at Microsoft Munich in the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc) building showcases and conducting workshops in the domain of Machine Learning.
 
 &nbsp;
 
