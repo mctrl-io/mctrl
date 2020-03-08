@@ -57,4 +57,4 @@ siteCtx =
 
 -- configuration for display
 config :: Configuration
-config = defaultConfiguration { previewHost = "0.0.0.0", previewPort = 35729 }
+config = defaultConfiguration { previewHost = "0.0.0.0", previewPort = 35730 }

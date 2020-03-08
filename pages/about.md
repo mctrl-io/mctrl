@@ -7,7 +7,7 @@ slug: about
 ::: paragraph
 ::: text
 
-I'm a software developer / researcher / data scientist based in Munich interested in human-computer interaction, machine learning, functional programming, data visualization and mixed reality.  
+I'm a software developer / researcher / data scientist based in Munich interested in machine learning, software engineering, human-computer interaction, functional programming, data visualization and mixed reality.  
 
 I work at Microsoft Munich in the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc) building showcases and conducting workshops in the domain of Machine Learning.
 
