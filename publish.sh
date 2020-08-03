@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Temporarily store uncommited changes
 git stash
 # Verify correct branch
@@ -15,12 +16,8 @@ sed -i 's+https://benedikt-mayer.github.io+http://localhost:35730+g' site.hs
 git fetch --all
 git checkout -b master --track origin/master
 # check if everything worked and we're on master
-if [ $0 == *"zsh"* ]; then
-    read -q "yesno?on master? [y/n]"
-else
-    echo "on master? [y/n]"
-    read yesno
-fi
+echo "on master? [y/n]"
+read yesno
 if [ $yesno == "y" ]; then
     # Overwrite existing files with new files
     rsync -a --filter='P _site/' \
