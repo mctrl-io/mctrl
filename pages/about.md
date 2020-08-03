@@ -13,7 +13,7 @@ I work at Microsoft Munich in the [Microsoft Technology Center](https://www.micr
 
 &nbsp;
 
-My current project is my master thesis, titled "Model agnostic Feature Importance by Loss Measures", in which I work on new Feature Importance measures.
+My current project is my master thesis, titled "Model agnostic Feature Importance by Loss Measures", in which I work on Interpretable Machine Learning.
 
 &nbsp;
 
