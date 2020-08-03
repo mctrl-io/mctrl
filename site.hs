@@ -32,7 +32,7 @@ main = hakyllWith config $ do
             listField "projects" siteCtx (return postList) <> siteCtx
       getResourceBody
         >>= applyAsTemplate projectsCtx
-        >>= renderPandoc  
+        >>= renderPandoc
         >>= loadAndApplyTemplate "templates/main.html"    projectsCtx
         >>= loadAndApplyTemplate "templates/default.html" projectsCtx
         >>= relativizeUrls
@@ -45,7 +45,7 @@ main = hakyllWith config $ do
 -- normal site context
 siteCtx :: Context String
 siteCtx =
-  constField "baseurl" "http://localhost:35730"
+  constField "baseurl" "https://benedikt-mayer.github.io"
     <> constField "site_description"  "benedikt mayer | portfolio"
     <> constField "site_title"        "benedikt mayer | portfolio"
     <> constField "github_username"   "benedikt-mayer"
