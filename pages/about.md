@@ -9,7 +9,11 @@ slug: about
 
 I'm a software developer / researcher / data scientist based in Munich interested in machine learning, software engineering, human-computer interaction, functional programming, data visualization and mixed reality.  
 
-I work at Microsoft Munich in the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc) building showcases and conducting workshops in the domain of Machine Learning.
+I work at Microsoft Munich in the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc) building showcases and conducting workshops in the domain of Machine Learning.  
+
+&nbsp;
+
+My current project is my master thesis, titled "Model agnostic Feature Importance by Loss Measures", in which I work on new Feature Importance measures.
 
 &nbsp;
 
