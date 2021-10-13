@@ -13,11 +13,11 @@ Currently, I work as a Machine Learning Engineer at [Machine Learning Reply](htt
 
 &nbsp;
 
-Recently, I wrote my master thesis, titled "Model agnostic Feature Importance by Loss Measures", in which I worked on Interpretable Machine Learning. We are in the process of submitting the thesis as a paper.
+Recently, I wrote my master thesis, titled "Model agnostic Feature Importance by Loss Measures", in which I worked on Interpretable Machine Learning at the [Statistical Learning and Data Science Group](https://www.slds.stat.uni-muenchen.de/research/explainable-ai.html) at LMU Munich. 
 
 &nbsp;
 
-I studied computer science (M.Sc.) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) with a focus on Data Science. Previously, I've completed my bachelor of Media Informatics at LMU Munich, writing my bachelor thesis at [Lancaster University](https://www.lancaster.ac.uk/) about Interaction in VR.  
+I studied computer science (M.Sc.) at [LMU Munich](https://www.en.uni-muenchen.de/index.html) with a focus on Data Science and Software Engineering. Previously, I've completed my bachelor of Media Informatics at LMU Munich, writing my bachelor thesis at [Lancaster University](https://www.lancaster.ac.uk/) about Interaction in VR.  
 
 &nbsp;
 

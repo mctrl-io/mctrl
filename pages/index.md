@@ -6,7 +6,7 @@ slug: index
 
 ::: gallery-header-wrapper
 ::: gallery-header
-## I'm Benedikt, a Computer Science Student based in Munich.
+## I'm Benedikt, a Machine Learning Engineer based in Munich.
 
 &nbsp;
 
