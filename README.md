@@ -453,9 +453,13 @@ Mission Statement
   
   "63,000,000 babies saved, and counting..."
   
-  That would mean Mission CTRL celebrated 63,000,000 times, announcing,
+  That would mean Mission CTRL celebrated 63,000,000 times, announcing each time to the world,
   
   "Folks, we're having a baby!"
+
+  Now that's what we call Mission Accomplished.
+
+  [img: Having a Cigar at Mission CTRL]
 
 Villages of Hope
   While ending abortion is the driving focus of this mission, the scope of
