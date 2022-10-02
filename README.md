@@ -209,16 +209,16 @@ Mission Stages
   Stage. Stages such as dispersal are not on the roadmap, as the MetaMission is built to keep on going.
 
 Local Empowerment Fund
-  Missionaries draw a daily reward, which they deserve for their work, at a
-  rate established during the mission planning phase. If the CTRL token
-  appreciates above the exchange rate at the time of the missionary's
-  deployment, the excess amount will flow automatically into a fund dedicated
-  to Local Empowerment for that mission field.
+  Missionaries in the field draw a daily reward, at a rate established during the mission planning phase. If the CTRL token appreciates above the exchange rate at the time of the missionary's deployment, the excess amount will flow automatically into a fund dedicated to Local Empowerment for that mission.
 
   Often, the mission will call for minting a native token for the natives (!)
   and channeling the money in the Local Empowerment Fund to their new DAO,
   which then controls all spending by self-governance and consensus. This is
   the case with Mission 2 (see SLABDAO), for example.
+  
+  Furthermore, the locals are empowered (and encouraged) to start their own missions using their own native token and DAO, and we'll gladly help them.
+  Again, this is the case with Mission 2 (see Builder's Paradise), where
+  missionaries help the residents of Slab City start their own enterprises, leasing land to foreigners, and then offering customers everything from infrastructure and construction to supply chain logistics and international commerce -- to make everyone's greatest dreams reality, on the ground, for the mutual benefit of all IRL.
 
 Validation
   Validators are randomly-chosen people on the mission field at Level 2 or
@@ -356,13 +356,14 @@ The Story of Fox and Raven (Founders)
 
   Fox says,
 
-  I don't remember my first program, but I remember writing a Blackjack game in
-  BASIC, on a Tandy Pocket Computer. Wish I could find that thing. Later, in my
+  For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+
+  I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my
   teens, I learned about C++ and studied object-oriented programming for a few
   years, for no particular reason other than it gave me joy. Then I went to
   college and majored in creative writing and literature, which also gave me
-  joy, and I ignored computers until my final year (you could still ignore
-  computers in the early 90s). What happened in my final year to bring me back
+  joy, and I ignored computers until my final year. You could still ignore
+  computers in the early 90s. What happened in my final year to bring me back
   to computers was, I was broke.
   
   Since I typed at 100 WPM, which is nothing special today among serious
@@ -371,7 +372,7 @@ The Story of Fox and Raven (Founders)
   was a literal board on the wall, to be clear, though I did run a BBS in the
   late 80s.
   
-  There on that board I found an offer that changed everything: to intern at
+  There on that board I found an offer that changed everything: an internship at
   Borland International if you know C++. Gee, I knew some C++.
   
   And so I was no longer broke. Not even close. I dropped out of college and
@@ -384,7 +385,7 @@ The Story of Fox and Raven (Founders)
   Scala, and ultimately Haskell. Some people prefer or need to be versatile,
   but for me, when it comes to my own coding now, I'm a Haskeller.
   
-  Speaking of Haskell, I thank God for Cardano and what they're doing. In general, I conclude at this point that the spirit of the Cardano project is executing on MetaMission. I'm all in, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano at large.
+  Speaking of Haskell, I thank God for Cardano and what they're doing. In general, I conclude at this point that the spirit of the Cardano project is executing on MetaMission. I'm all in, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano.
   
   And speaking of God, here's another thing. In 2013, I decided to reject
   technology and the whole system (it's complicated), so I checked out, bought
@@ -392,12 +393,13 @@ The Story of Fox and Raven (Founders)
   of antiques. Just me and my dog, in a town of about 2,000 country folk. I was
   busy doing research for a cynical novel I was writing about religion, when at
   midnight on New Year's Eve 2014-2015, my Lord Jesus Christ saved me. And I
-  never saw it coming. I had been an atheist and an active anarchist all my
-  life, and I didn't even know a single Christian.
+  never saw it coming. I was at the top of my game, and then God intervened, convicted me, and changed everything for me. I'm completely transformed, given new life. I had been an atheist and an active, demonstrating anarchist all my life (I hope this shows in my continued attention to preserving our personal freedoms), and I didn't even know a single Christian.
   
   Now God, through His Son Jesus Christ, has led me to go on this mission here.
   That's MY statement of dedication to Mission CTRL, before all of you, and
-  before my Lord. This is something to bank on: I'm doxxed before God, and one motivated fella.
+  before my Lord.
+  
+  Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
 
   Q: Is this a Christian organization?
 
@@ -408,9 +410,7 @@ The Story of Fox and Raven (Founders)
   of all its members, through consensus and personal prerogative.
 
   Perhaps another matter of trivia to unbelievers is that the MetaMission is
-  our codification of Jesus' call to repentence, YOUR call to repentance.
-
-  The Metamission is the Christian walk, expressed in a way that everyone can
+  our codification of Jesus' call to repentence, YOUR call to repentance. The Metamission is the Christian walk, expressed in a way that everyone can
   follow because it's guided by their God-given conscience, otherwise known as
   compassion, having a heart, loving.
   
@@ -419,15 +419,16 @@ The Story of Fox and Raven (Founders)
   rise. Everyone likes those returns.
   
   Let's be clear: Mission CTRL is for everyone, and always will be, and there's
-  no secret or cultish or weird agenda behind it.
+  no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have me.
   
   Anyway, I'm sharing my background in order to explain a little about my
   peculiar relationship with technology, my respect for your individual
-  freedom, our guiding principles (which are expressed in the acronym CTRL),
-  and that I'm equipped to deploy on this mission and succeed -- with the
-  support of Mission CTRL.
-  
-  Maybe Raven will say something later.
+  freedom (in word, thought and deed), the guiding principles of the MetaMission, which are expressed in the acronym CTRL, and that I'm equipped to deploy on this mission and succeed -- with the support of Mission CTRL.
+
+  Maybe Raven will say something later. You'll see us appearing soon in video Mission Logs, and we'll be in constant contact with the community in Twitter Spaces and Discord chats.
+
+  Thanks for reading, and God bless all of you.
+    -- TC Howitt, MetaMissionary
 
 ---
 
@@ -457,7 +458,7 @@ Mission Statement
   "Folks, we're having a baby!"
 
 Villages of Hope
-  While stopping abortion is the driving focus of this mission, the scope of
+  While ending abortion is the driving focus of this mission, the scope of
   the Mission for Life is broad, and so it's also dedicated to helping people
   of any age or status who are lacking the special care they need to survive.
 
