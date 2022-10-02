@@ -21,3 +21,4 @@ _cache/
 _site/
 stack.yml.lock
 stack.yaml.lock
+.vscode
