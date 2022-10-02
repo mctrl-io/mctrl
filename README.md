@@ -12,9 +12,15 @@ We've got crowdfunding under control.
 
 ---
 
-[Mission Control pic]
+TODO:
 
-[Make existing missions stand out, to make the impression]
+Mission Control pics
+
+Make existing missions stand out, to make the impression. Batteries included: We've already got over a dozen missions in the planning stages, all of them founded on the MetaMission. Some of these missions are ready to start funding now, but Mission CTRL needs catalyst funding to enable that functionality. Any sales in this catalyst funding phase that exceed the funding target will go into the treasury and then get poured into missions later according to consensus (see Catalyist Funding).
+
+Wallet Auth, Get on mission - get CTRL, funding visualizations.
+
+Before minting, first mint Hazy/HZY.
 
 ---
 
@@ -134,31 +140,6 @@ Catalyst Funding
   itself and launch the first missions. For this purpose, we've created the
   Bootstrap Fund, which is a small allocation of CTRL to be cashed out when it
   reaches a preset funding target.
-  
-Insignia Contest
-  Mission CTRL desperately needs an insignia, not only to function as a logo
-  online and eventually on gear, but to give this project an inspirational,
-  unifying, concrete theme, and we don't think this work should wait on Mission
-  3 to launch. Therefore, the founders have decided to offer a reward of 500
-  CTRL ($500) for the best insignia, to be awarded in the same week the
-  Bootstrap Fund reaches its goal. Founders reserve the right to take a pass on
-  all submissions, but a favorite will be selected and awarded 500 CTRL
-  nonetheless.
-  
-  This is your chance to have your design serve as the front-facing image of
-  Mission CTRL worldwide. This is also the time to think about the greater
-  theme, and the need down the line for new insignias for workers at the
-  different Participation Levels and such. We hope that 500 CTRL will inspire
-  the artist(s) to work with us to hone the work to enhance the Mission CTRL
-  vision.
-  
-  We need lots of graphic art in general. The art should be fun and
-  adventurous, because missions should be fun and adventurous a lot of the
-  time, yet stay fully on mission, keeping with the serious project-oriented
-  utility of Mission CTRL. It's a delicate balance. Here are some words to
-  summarize the aesthetic: Bold, adventurous, compassionate, well-equipped.
-  
-  Send your submissions to fox@trqoiz.com.
 
 CTRL Tokenomics
   The strategy is to use the same native token for catalyst funding that we'll
@@ -200,8 +181,8 @@ CTRL Tokenomics
   development. Mission 3 is all about this work.
 
 Mission Stages
-  Not all of these will be applicable to every mission. Indeed, some missions
-  are software development projects.
+  Not all of these stages will be applicable to every mission. Indeed, some missions
+  are open-source software development projects, including this mission.
 
   Pre-Planning - Pitch a new mission, see if it can fly
   Planning - Further analysis and preparation for success
@@ -224,10 +205,8 @@ Mission Stages
     You can tip Mission CTRL workers, as always, or give over lump sums to
     missions, as always.
 
-  The MetaMission of Mission CTRL is following these stages now, although
-  they're not programmatically driven (see Mission 3). The MetaMission has now
-  reached the Funding Stage, and you're looking at the product of the Planning
-  Stage.
+  This mission, the MetaMission of Mission CTRL, is following these stages now, although they're not programmatically driven (see Mission 3). The MetaMission has now reached the Funding Stage, and you're looking at the product of the Planning
+  Stage. Stages such as dispersal are not on the roadmap, as the MetaMission is built to keep on going.
 
 Local Empowerment Fund
   Missionaries draw a daily reward, which they deserve for their work, at a
@@ -235,6 +214,11 @@ Local Empowerment Fund
   appreciates above the exchange rate at the time of the missionary's
   deployment, the excess amount will flow automatically into a fund dedicated
   to Local Empowerment for that mission field.
+
+  Often, the mission will call for minting a native token for the natives (!)
+  and channeling the money in the Local Empowerment Fund to their new DAO,
+  which then controls all spending by self-governance and consensus. This is
+  the case with Mission 2 (see SLABDAO), for example.
 
 Validation
   Validators are randomly-chosen people on the mission field at Level 2 or
@@ -324,12 +308,41 @@ Private Missions
   rewards. Indeed, such a couple could put out a call for another missionary,
   a relationship counselor, to help.
 
-Mission CTRL Gear
+Mission CTRL Store
   Branded gear to properly equip you for any mission.
   Available only in the Mission CTRL Store.
   Offering the same high-quality utility gear that Mission CTRL uses in the
   field. Best part is, when you buy the gear, you become part of Mission CTRL
   as a supporter, making it legit for you to rock that logo anywhere you go.
+
+Mission Insignias
+  Each mission gets an insignia to use as a logo online and for branding the mission's patches, gear, stickers, mugs... all the merch. Missions can make NFTs for sale in the Mission CTRL Store too.
+
+Insignia Contest
+  Mission CTRL desperately needs an insignia to give this project an inspirational, unifying, concrete theme, and we don't think this work should wait on Mission 3 to launch and do it. Therefore, the founders have decided to offer a reward of 500 CTRL ($500) for the best Mission CTRL insignia, to be awarded in the same week the Bootstrap Fund reaches its goal. Founders reserve the right to take a pass on all submissions, but a favorite will be selected and awarded 500 CTRL nonetheless.
+  
+  This is your chance to have your design serve as the front-facing image of
+  Mission CTRL worldwide. This is also the time to think about the greater
+  theme, and the need down the line for new insignias for workers at the
+  different Participation Levels and such. We hope that 500 CTRL will inspire
+  the artist(s) to work with us to hone the work to enhance the Mission CTRL
+  vision.
+
+  We need lots of graphic art in general. The art should be fun and
+  adventurous, because missions should be fun and adventurous a lot of the
+  time, yet stay fully on mission, keeping with the serious project-oriented
+  utility of Mission CTRL. It's a delicate balance. Here are some words to
+  summarize the aesthetic: Bold, adventurous, compassionate, well-equipped.
+  Use the early NASA mission insignias for inspiration, but don't use the
+  rockets-leaving-earth imagery, since Mission CTRL is dedicated to serving
+  people on earth.
+  
+  [NASA patch example]
+  
+  Finally, please try to avoid using any trippy, mysterious symbolism (alchemy symbols, mythological references, etc.), and use only
+  words used in this document to describe Mission CTRL.
+    
+  Send your submissions to fox@trqoiz.com.
 
 The Story of Fox and Raven (Founders)
 
@@ -369,10 +382,11 @@ The Story of Fox and Raven (Founders)
   
   In terms of my favored programming languages, C++ gave way to Java, then
   Scala, and ultimately Haskell. Some people prefer or need to be versatile,
-  but for me, when it comes to coding, I'm a Haskeller now. I thank God for
-  Cardano and what they're doing with Haskell.
+  but for me, when it comes to my own coding now, I'm a Haskeller.
   
-  Speaking of God, here's another thing. In 2013, I decided to reject
+  Speaking of Haskell, I thank God for Cardano and what they're doing. In general, I conclude at this point that the spirit of the Cardano project is executing on MetaMission. I'm all in, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano at large.
+  
+  And speaking of God, here's another thing. In 2013, I decided to reject
   technology and the whole system (it's complicated), so I checked out, bought
   an old brick building (old for the US, 1869) and opened a used bookstore full
   of antiques. Just me and my dog, in a town of about 2,000 country folk. I was
@@ -383,7 +397,7 @@ The Story of Fox and Raven (Founders)
   
   Now God, through His Son Jesus Christ, has led me to go on this mission here.
   That's MY statement of dedication to Mission CTRL, before all of you, and
-  before my Lord.
+  before my Lord. This is something to bank on: I'm doxxed before God, and one motivated fella.
 
   Q: Is this a Christian organization?
 
@@ -418,6 +432,7 @@ The Story of Fox and Raven (Founders)
 ---
 
 Mission 1: Mission for Life
+IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
@@ -446,16 +461,14 @@ Villages of Hope
   the Mission for Life is broad, and so it's also dedicated to helping people
   of any age or status who are lacking the special care they need to survive.
 
-Levels
-  Level 4 (Missionary): The families and people helping each other on this mission.
+The locals are the families receiving help from Mission for Life.
 
-Local Empowerment
-  In this case, the missionaries are the locals helping themselves, so they all
-  get self-empowered here. That's how the Mission for Life rolls.
+The missionaries are the families present with the locals IRL and helping them on a daily basis.
 
 ---
 
 Mission 2: Salton Sea Rescue
+IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Planning
 
@@ -612,6 +625,7 @@ Missionary Profiles
 ---
 
 Mission 3: Develop Website and DAO
+IRL      : No
 Version  : 1.0-SNAPSHOT
 Stage    : Planning
 
@@ -634,6 +648,7 @@ because history has proved that we can't be trusted to do it for ourselves.
 We need to build Tip Jar functionality sooner than later, with tips going into the Tip Fund corresponding to each mission. The DAO will distribute tips regularly to the workers on those missions, including the builders of the website and DAO.
 
 Mission 4: STAMP
+IRL      : No
 Version  : 1.0-SNAPSHOT
 Stage    : Planning
 
@@ -645,6 +660,7 @@ shipping network.
 ---
 
 Mission 5: Fugs
+IRL      : No
 Version  : 1.0-SNAPSHOT
 Stage    : Planning
 
@@ -654,6 +670,7 @@ have fun doing it. Go fuggers, go!
 ---
 
 Mission 6: Builder's Paradise
+IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
@@ -673,12 +690,14 @@ in this case, happens through SLABDAO.
 ---
 
 Mission 7: trqoiz
+IRL      : No
 Version  : 1.0-SNAPSHOT
 Stage    : Planning
 
 ---
 
 Mission 8: The Walking Staff
+IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
@@ -690,6 +709,7 @@ Discovering Our Faith
 ---
 
 Mission 9: The Haskell School of Haskell
+IRL      : No
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
@@ -714,6 +734,7 @@ on stuff like blockchain
 ---
 
 Mission 10: Music Thing
+IRL      : No
 
 TinySynth
 Looper
@@ -722,17 +743,35 @@ Loopies - Musical NFT Collection
 
 ---
 
-Mission 11: Story Thing
+Mission 11: Help
+IRL      : No
+
+Sometimes we need help, and sometimes we can help each other. In every case, both parties benefit.
+
+  Text interface.
+  Social audio.
+  Geospatial mobility.
+  Narrative building.
+
+  Games platform.
+  Teaching platform.
+
+It's a modern MUD, crypto-enabled.
+
+Welcome to Help. For help, type help.
+>
 
 ---
 
 Mission 12: Man Up
+IRL      : No
 
 The self-improvement app for men, and the dating app for women to find them.
 
 ---
 
 Mission 13: One Step Recovery
+IRL      : No
 
 Earn by recovering.
 
@@ -765,12 +804,13 @@ Mission 1.
 ---
 
 Mission 14: The RUG Pushers
+IRL      : No
 
 This is the opposite of a rug pull -- a mission to refund buyers for their
 losses after catastrophic NFT rugs. The idea is to use staking rewards to build
-up a free blockchain-wide (Cardano) insurance fund.
+up a free blockchain-wide insurance fund (only on Cardano).
 
-[something about recent rugs]
+[something about the biggest rugs, and recent rugs]
 
 The locals, in the case of this mission, are those who got rugged. If the RUG
 Pushers determine that a rug has indeed defrauded customers, they'll get
