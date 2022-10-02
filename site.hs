@@ -1,60 +1,66 @@
 --------------------------------------------------------------------------------
-
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid
-import           Control.Monad                  ( filterM )
+import           Data.Monoid (mappend)
 import           Hakyll
-import           Text.Pandoc
+
 
 --------------------------------------------------------------------------------
-
 main :: IO ()
-main = hakyllWith config $ do
+main = hakyll $ do
+    match "images/*" $ do
+        route   idRoute
+        compile copyFileCompiler
 
-  -- css, js, images
-  match "static/*/*" $ do
-    route idRoute
-    compile copyFileCompiler
+    match "css/*" $ do
+        route   idRoute
+        compile compressCssCompiler
 
-  -- dummy compile to independently get meta information out of the projects pages like image links, titles, slugs, ...
-  match "pages/projects/*" $ version "meta" $ do
-    route idRoute
-    compile getResourceBody
-    
-  -- all pages: index, about and all project pages
-  match "pages/**" $ do
-    route $ gsubRoute "pages/" (const "") `composeRoutes` gsubRoute "projects/" (const "") `composeRoutes` setExtension
-      "html"
+    match (fromList ["about.rst", "contact.markdown"]) $ do
+        route   $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= relativizeUrls
 
-    compile $ do
-      postList <- loadAll ("pages/projects/*" .&&. hasVersion "meta")
-      let projectsCtx =
-            listField "projects" siteCtx (return postList) <> siteCtx
-      getResourceBody
-        >>= applyAsTemplate projectsCtx
-        >>= renderPandoc
-        >>= loadAndApplyTemplate "templates/main.html"    projectsCtx
-        >>= loadAndApplyTemplate "templates/default.html" projectsCtx
-        >>= relativizeUrls
+    match "posts/*" $ do
+        route $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= relativizeUrls
 
-  -- HTML templates like footer, head, etc.
-  match "templates/*" $ compile templateCompiler
+    create ["archive.html"] $ do
+        route idRoute
+        compile $ do
+            posts <- recentFirst =<< loadAll "posts/*"
+            let archiveCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    constField "title" "Archives"            `mappend`
+                    defaultContext
+
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= relativizeUrls
+
+
+    match "index.html" $ do
+        route idRoute
+        compile $ do
+            posts <- recentFirst =<< loadAll "posts/*"
+            let indexCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    defaultContext
+
+            getResourceBody
+                >>= applyAsTemplate indexCtx
+                >>= loadAndApplyTemplate "templates/default.html" indexCtx
+                >>= relativizeUrls
+
+    match "templates/*" $ compile templateBodyCompiler
+
 
 --------------------------------------------------------------------------------
-
--- normal site context
-siteCtx :: Context String
-siteCtx =
-  constField "baseurl" "http://localhost:35730"
-    <> constField "site_description"  "benedikt mayer | portfolio"
-    <> constField "site_title"        "benedikt mayer | portfolio"
-    <> constField "github_username"   "benedikt-mayer"
-    <> constField "linkedin_username" "benedikt-mayer-7ab235132"
-    <> constField "email_username"    "benedikt_mayer"
-    <> constField "email_domain"      "outlook"
-    <> constField "email_tld"         "de"
-    <> defaultContext
-
--- configuration for display
-config :: Configuration
-config = defaultConfiguration { previewHost = "0.0.0.0", previewPort = 35730 }
+postCtx :: Context String
+postCtx =
+    dateField "date" "%B %e, %Y" `mappend`
+    defaultContext
