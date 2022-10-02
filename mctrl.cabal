@@ -1,19 +1,19 @@
-name:                WhoNeedsFrameworks-hakyll
-version:             0.2.0.0
+name:                mctrl
+version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/benedikt-mayer/benedikt-mayer.github.io
+homepage:            https://github.com/mctrl-io/mctrl
 license:             BSD3
 license-file:        LICENSE
-author:              Benedikt Mayer
-maintainer:          benedikt_mayer@outlook.de
-copyright:           2019 Benedikt Mayer
+author:              Mission CTRL
+maintainer:          fox@trqoiz.com
+copyright:           2022 Mission CTRL
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
 
-executable WhoNeedsFrameworks-hakyll
+executable mctrl
   main-is:             site.hs
   default-language:    Haskell2010
   ghc-options:         -threaded

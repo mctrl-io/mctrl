@@ -5,18 +5,18 @@ git stash
 git checkout hakyll
 # replace base url with github
 echo "setting base url to github url"
-sed -i 's+http://localhost:35730+https://benedikt-mayer.github.io+g' site.hs
+sed -i 's+http://localhost:35730+https://mctrl.io+g' site.hs
 # Build new files
 stack build
-stack exec WhoNeedsFrameworks-hakyll rebuild
+stack exec mctrl rebuild
 # replace base url with localhost again
 echo "setting base url back to localhost"
-sed -i 's+https://benedikt-mayer.github.io+http://localhost:35730+g' site.hs
+sed -i 's+https://mctrl.io+http://localhost:35730+g' site.hs
 # Get previous files
 git fetch --all
-git checkout -b master --track origin/master
-# check if everything worked and we're on master
-echo "on master? [y/n]"
+git checkout -b gh-pages --track origin/gh-pages
+# check if everything worked and we're on gh-pages
+echo "on gh-pages? [y/n]"
 read yesno
 if [ $yesno == "y" ]; then
     # Overwrite existing files with new files
@@ -31,10 +31,10 @@ if [ $yesno == "y" ]; then
     git add -A
     git commit -m "Publish."
     # Push
-    git push origin master:master
+    git push origin gh-pages:gh-pages
     # Restoration
     git checkout hakyll
-    git branch -D master
+    git branch -D gh-pages
 fi
 # now pop the stash
 git stash list --date=local
