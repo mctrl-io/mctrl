@@ -837,6 +837,22 @@ free insurance missions with it.
 
 ---
 
+Mission 15: Decentralized Farming
+
+DeFa - Decentralized Farming
+
+The cannabis industry is a train wreck, especially in the United States. Our mission is to remake and run the cannabis industry right, and even more than this, to give the indentured farmers of the world, whatever kind of natural harvest they're yielding, the full support they need to abandon the centralized system of exploitation and participate and prosper in the new DeFa economy like a boss.
+
+There will be gleaning for all, and much celebrating for the harvest. And you know how Mission CTRL parties -- by giving gifts (see Mission Accomplished).
+
+Of course, the farmers will need agricultural logistics and supply chains, etc., and that all of this must also adhere to permaculture principles. Permaculture is on MetaMission, big time. And if one member of the body isn't on mission, the whole body is injured.
+
+The locals are the cannabis growers and everyone who helps bring their products to market, and then with future missions they'll be the wider agricultural industry, using this mission as a model (requiring our Launch Code).
+
+The missionaries are those skilled in crypto and able to establish native tokin' Hazy (HZY) and HZYDAO, the cannabis producers' own decentralized organization, built by this mission in the Development stage to adhere to permaculture principles and serve as a basis for similar missions. The missionaries are the ones introducing Hazy and onboarding the producers -- every day. This mission requires a lot of constant travel for missionaries, since you're setting up a new way to do global business -- the decentralized way -- and always according to the MetaMission.
+
+---
+
 Missions Beyond: Your Own Missions
 
 Let's hear about your mission ideas!
