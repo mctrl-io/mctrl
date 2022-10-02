@@ -815,7 +815,7 @@ This is the opposite of a rug pull -- a mission to refund buyers for their
 losses after catastrophic NFT rugs. The idea is to use staking rewards to build
 up a free blockchain-wide insurance fund (only on Cardano).
 
-[something about the biggest rugs, and recent rugs]
+[something about the most devastating rugs in crypto, with NFT jpgs, and recent rugs on Cardano]
 
 The locals, in the case of this mission, are those who got rugged. If the RUG
 Pushers determine that a rug has indeed defrauded customers, they'll get
@@ -849,7 +849,7 @@ Of course, the farmers will need agricultural logistics and supply chains, etc.,
 
 The locals are the cannabis growers and everyone who helps bring their products to market, and then with future missions they'll be the wider agricultural industry, using this mission as a model (requiring our Launch Code).
 
-The missionaries are those skilled in crypto and able to establish native tokin' Hazy (HZY) and HZYDAO, the cannabis producers' own decentralized organization, built by this mission in the Development stage to adhere to permaculture principles and serve as a basis for similar missions. The missionaries are the ones introducing Hazy and onboarding the producers -- every day. This mission requires a lot of constant travel for missionaries, since you're setting up a new way to do global business -- the decentralized way -- and always according to the MetaMission.
+The missionaries are those skilled in crypto and able to establish the native tokin' Hazy (HZY) and HZYDAO, the cannabis producers' own decentralized organization, built by this mission in the Development stage to adhere to permaculture principles and serve as a basis for similar missions. The missionaries are the ones introducing Hazy and onboarding the producers -- every day. This mission requires a lot of constant travel for missionaries, since you're setting up a new way to do global business -- the decentralized way -- and always according to the MetaMission. Basically, you're visiting growers, running crypto booths at cannabis conferences and cannabis booths at crypto conferences, visiting dispensaries, doing tons of IRL air drops of the Hazy, etc.
 
 ---
 
