@@ -449,11 +449,11 @@ Mission Statement
   Never again will we hear the argument that abortion is justifiable due to
   poverty or an unsupportive world.
 
-  We desire to see billboards, funded by Mission CTRL, reading,
+  We desire to see billboards, funded by this mission, reading,
   
-  "63,000,000 babies saved, and counting..."
+  "50,000,000 babies saved, and counting..."
   
-  That would mean Mission CTRL celebrated 63,000,000 times, announcing each time to the world,
+  That would mean Mission CTRL saved the number of lives lost to abortion every year. It would also mean Mission CTRL celebrated 50,000,000 times, announcing each time to the world,
   
   "Folks, we're having a baby!"
 
