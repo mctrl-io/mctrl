@@ -365,11 +365,19 @@ The Story of Fox and Raven (Founders)
 
   Since the time of those events, not long ago, when Fox and Raven entered the Development stage of this new great mission, the MetaMission as it became to be known to the world, God has only been giving them more and more, enabling their mission to go further and further.
 
-  I visited Fox at his hole on the outskirts of the Mojave Desert to ask him some questions.
+  I visited Fox at his hole in the desert outskirts of California to ask him some questions.
 
-  Otter: Hi there, Fox. Do you have any questions before we get started?
+  Otter: It's very hot and dry over here.
+  
+  Fox: Hello, Otter. Thank you for visiting. I hope that tub full of cold water is treating you right.
 
-  Fox: Hello, Otter. Thank you for visiting. Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
+  Otter: It's keeping me from leaving, if that's important to you.
+
+  Fox: Make yourself at home.
+
+  Otter: Thank you, I will. Do you have any questions before we get started?
+
+  Fox: Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
 
   Otter: That's a little bit personal, bro.
 
@@ -379,15 +387,15 @@ The Story of Fox and Raven (Founders)
 
   Fox: Actually, you literally just did that.
 
-  Otter: Look, bro, I'm about to lose my cool all over you.
+  Otter: Look, bro, I'm about to lose my cool all over you. Step up to my tub if you're feeling like feisty, Fox.
 
   Fox: I thought Otters were always cool.
 
   Otter: That's what my therapist keeps telling me, but then again, my therapist is a snake. I call him Dr. Slinky Shrinky. To his face, and he takes it because I'm paying him.
   
-  Fox: Does that help you?
+  Fox: Please stop splashing water at me.
 
-  Otter: It gets a testy otter through the session. Let's get started, shall we?
+  Otter: It's getting me through this interview. Let's get started, shall we?
 
   Fox: Yes, please.
 
@@ -442,19 +450,19 @@ The Story of Fox and Raven (Founders)
   That's MY statement of dedication to Mission CTRL, before all of you, and
   before my Lord.
   
-  Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
+  Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've listened this far, you know that means I'm already on MetaMission with all I've got.
 
   Otter: You really went off there.
 
   Fox: Sorry.
 
-  Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert you keep with your bird-wife.
+  Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert. Where's your bird-wife.
 
   Fox: Raven.
 
-  Otter: That's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
+  Otter: A Raven's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
 
-  Fox: Have it your way, Otter: .
+  Fox: Have it your way, Otter.
 
   Otter: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
 
@@ -503,7 +511,6 @@ The Story of Fox and Raven (Founders)
   Fox: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
 
   Thanks for reading, and may God's love be with you all.
-    -- TC Howitt, MetaMissionary
 
 ---
 
