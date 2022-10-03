@@ -578,6 +578,12 @@ Stage    : Planning
 We're on a mission to migrate all the NFTs from Ethereum to Cardano, and to
 have fun doing it. Go fuggers, go!
 
+This is a DEX and staking pool like no other.
+
+Introduce risk into your story, if you want -- allow the possibility that mean fuggers can actually keep your fug(s) forever, meaning you'd want to use this to incentivize your own game world. Give away rewards this way, or just use it to spice up your worthless NFTs and have fun at the same time. Talk about added value, fuggers.
+
+The RUG Pushers (Mission 14) can use Fugs, when ready, meaning that they'll need a Launch Code.
+
 ---
 
 Mission 6: Builder's Paradise
@@ -743,8 +749,9 @@ in the first place. This mission also needs to prevent bad actors from gaming
 the RUG Pushers themselves with false flag rugs (flugs?).
 
 Ideally, this bailout fund will grow ever larger as our policies and
-techniques for fighting fraud improve, and then we can fund all kinds of other
-free insurance missions with it.
+techniques for fighting fraud improve, and then we can fund all kinds of other free insurance missions with it.
+
+But wait, there's more. The RUG Pushers will restart your abandoned NFT collection, even if it's on Ethereum! All your dead NFTs can be brought back to life, breathing even more value into them than before, using Fugs! This mission will require a Launch Code from Mission 5 in order to deploy this offer using Fugs.
 
 ---
 
