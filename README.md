@@ -16,7 +16,7 @@ TODO:
 
 Mission Control pics
 
-Make existing missions stand out, to make the impression. Batteries included: We've already got over a dozen missions in the planning stages, all of them founded on the MetaMission. Some of these missions are ready to start funding now, but Mission CTRL needs catalyst funding to enable that functionality. Any sales in this catalyst funding phase that exceed the funding target will go into the treasury and then get poured into missions later according to consensus (see Catalyist Funding).
+Make existing missions stand out, to make the impression. Batteries included: We've already got over a dozen missions in the planning stages, all of them founded on the MetaMission. Some of these missions are ready to start funding now, but Mission CTRL itself needs boostrap funding to enable that functionality. Any sales in this funding phase that exceed the bootstrap funding target will go into the treasury and then get poured into missions later according to consensus (see Bootstrap Funding).
 
 Wallet Auth, Get on mission - get CTRL, funding visualizations.
 
@@ -136,7 +136,7 @@ Mission Prerogative
   entirely focused on getting back on mission, with the missionary foremost in
   leading that effort.
 
-Catalyst Funding
+Bootstrap fund
   Given that this mission is building the structural and crowdfunding support
   for other missions, it must leverage a bootstrapping technique to crowdfund
   itself and launch the first missions. For this purpose, we've created the
@@ -144,15 +144,15 @@ Catalyst Funding
   reaches a preset funding target.
 
 CTRL Tokenomics
-  The strategy is to use the same native token for catalyst funding that we'll
+  The strategy is to use the same native token for bootstrap funding that we'll
   use as a utility token for running the DAO. We'll call these two modes
-  Catalyst Phase and Operational Status.
+  Bootstrap Phase and Operational Status.
   
-  Catalyst Phase
+  Bootstrap Phase
     We'll first mint a very large surplus of CTRL, priced at $1 USD. The huge
     market cap means that total supply of CTRL won't run out before reaching
     Operational Status. A target amount of CTRL will then be allocated for
-    catalyst funding, called the Bootstrap Fund. The Bootstrap Fund will cash
+    bootstrap funding, called the Bootstrap Fund. The Bootstrap Fund will cash
     out for mission use when it reaches its target, thus providing the startup
     capital needed by Mission CTRL to reach Operational Status.
     
@@ -169,7 +169,7 @@ CTRL Tokenomics
   of $50,000.
 
   The remaining supply of CTRL (950,000,000 tokens) will be sold on the open
-  market. Expect the price of CTRL to remain at $1 throughout the Catalyst
+  market. Expect the price of CTRL to remain at $1 throughout the Bootstrap
   Phase, unless supporters have maxed out the market cap of $1 trillion USD. Do
   keep in mind that even in such an unlikely scenario, the Bootstrap Fund is
   limited to cash out at its target of $50,000. Only the supporters of Mission
