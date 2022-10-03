@@ -14,8 +14,6 @@ We've got crowdfunding under control.
 
 TODO:
 
-Move docs in hakyll
-
 Mission Control pics
 
 Make existing missions stand out, to make the impression. Batteries included: We've already got over a dozen missions in the planning stages, all of them founded on the MetaMission. Some of these missions are ready to start funding now, but Mission CTRL itself needs boostrap funding to enable that functionality. Any sales in this funding phase that exceed the bootstrap funding target will go into the treasury and then get poured into missions later according to consensus (see Bootstrap Funding).
@@ -29,8 +27,7 @@ Before minting, first mint Hazy/HZY.
 The MetaMission Statement
 Stage: Funding
 
-Purpose-driven crowdfunding, development and operations for people working in
-the real world.
+Purpose-driven crowdfunding, development and operations for people working in the real world.
 
 We're marshalling the entire world's decentralized workforce to accomplish our shared missions, right there out in the open.
 
@@ -172,21 +169,12 @@ CTRL Tokenomics
 
   The remaining supply of CTRL (950,000,000 tokens) will be sold on the open
   market. Expect the price of CTRL to remain at $1 throughout the Bootstrap
-  Phase, unless supporters have maxed out the market cap of $1 trillion USD. Do
-  keep in mind that even in such an unlikely scenario, the Bootstrap Fund is
-  limited to cash out at its target of $50,000. Only the supporters of Mission
-  CTRL would be getting rich, and at that point, the supporters would be a
-  large and diverse collection of the world's population. Furthermore, given
-  the MetaMission, much of this wealth enjoyed by Mission CTRL supporters would
-  get anonymously gifted back to missions.
+  Phase, unless supporters have maxed out the market cap of $1 trillion USD. Do keep in mind that even in such an unlikely scenario, the Bootstrap Fund is limited to cash out at its target of $50,000. Only the supporters of Mission CTRL would be getting rich, and at that point, the supporters would be a large and diverse collection of the world's population. Furthermore, given the MetaMission, much of this wealth enjoyed by Mission CTRL supporters would get anonymously gifted back to missions.
 
-  Mission CTRL, the DAO, will be built and put in charge of managing the supply
-  of CTRL (mint/burn) as well as the treasury for funding operations and new
-  development. Mission 3 is all about this work.
+  Mission CTRL, the DAO, will be built and put in charge of managing the supply of CTRL (mint/burn) as well as the treasury for funding operations and new development. Mission 3 is all about this work.
 
 Mission Stages
-  Not all of these stages will be applicable to every mission. Indeed, some missions
-  are open-source software development projects, including this mission.
+  Not all of these stages will be applicable to every mission. Indeed, some missions are open-source software development projects, including this mission.
 
   Pre-Planning - Pitch a new mission, see if it can fly
   Planning - Further analysis and preparation for success
