@@ -371,7 +371,7 @@ Mission Statement
 Villages of Hope
   While ending abortion is the driving focus of this mission, the scope of
   the Mission for Life is broad, and so it's also dedicated to helping people
-  of any age or status who are lacking the special care they need to survive.
+  of any age or status who are lacking the special care they need to survive. This includes staffing an army of missionaries available 24/7 for suicide prevention and other emergencies.
 
 The locals are the families receiving help from Mission for Life.
 
