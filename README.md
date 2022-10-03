@@ -554,7 +554,7 @@ The website and DAO need more builders.
 
 Front-end folks can begin by juicing up the static website, making some artwork and CSS involving any combination of space exploration, lunar lander, ground control type themes. Mission to Earth... Please, someone just make the website cool. Anything you do in JS will work, and you'll get to play around with a fun version of Jekyll in Haskell -- Hakyll.
 
-Keep in mind that the static site will go away soon, replaced by the CTRL Panel, a single-page app. The idea is to reuse the theme from the for UX. The existing content, expressed as mission statements, will get normalized into the db and then fronted by a spiffy interface for collectively planning and operating missions like a boss.
+Keep in mind that the static site will go away soon, replaced by the CTRL Panel, a single-page app. The idea is to reuse the theme from the for UX. The existing content, expressed as mission statements, will get normalized into the db and then fronted by a spiffy interface for planning and operating missions like a boss.
 
 In other areas of dev, it will be important to support realtime comms with all kinds of devices, protocols and networks. We should collaborate with projects doing decentralized wireless access.
 
