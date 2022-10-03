@@ -792,7 +792,7 @@ It's defensive wall -- legally, commercially and physically.
 
 Metaphor: Exchanging only through ports in the walls, with a full battery of defenses closely monitoring external activity from the watchtowers.
 
-Localities under self-governance can use the Corporate Wall Pattern to hire outside, private security to provide physical self-defense patrols just outside their borders.
+Localities under self-governance can use the Corporate Wall Pattern to hire outside, private security to provide physical self-defense patrols just outside their borders in unstable regions.
 
 -
 
