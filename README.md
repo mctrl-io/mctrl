@@ -782,7 +782,7 @@ The self-improvement app for men, and the dating app for women to find them.
 ---
 
 Mission 13: One Step Recovery
-IRL      : No
+IRL      : Yes
 
 Earn by recovering.
 
@@ -846,6 +846,7 @@ free insurance missions with it.
 Mission 15: Decentralized Farming
 
 DeFa - Decentralized Farming
+IRL      : Yes
 
 The cannabis industry is a train wreck, especially in the United States. Our mission is to remake and run the cannabis industry right, and even more than this, to give the indentured farmers of the world, whatever kind of natural harvest they're yielding, the full support they need to abandon the centralized system of exploitation and participate and prosper in the new DeFa economy like a boss.
 
@@ -857,9 +858,12 @@ The locals are the cannabis growers and everyone who helps bring their products 
 
 The missionaries are those skilled in crypto and able to establish the native tokin' Hazy (HZY) and HZYDAO, the cannabis producers' own decentralized organization, built by this mission in the Development stage to adhere to permaculture principles and serve as a basis for similar missions. The missionaries are the ones introducing Hazy and onboarding the producers -- every day. This mission requires a lot of constant travel for missionaries, since you're setting up a new way to do global business -- the decentralized way -- and always according to the MetaMission. Basically, you're visiting growers, running crypto booths at cannabis conferences and cannabis booths at crypto conferences, visiting dispensaries, doing tons of IRL air drops of the Hazy, etc.
 
+The drafter of this mission statement affirms that using a picture of his dog Hazel ("Hazy") as the head on coinage is advisable because she's adorable.
+
 ---
 
 Mission 16: The Public Comms System (PCS)
+IRL      : Yes
 
 Free communications access for all.
 
@@ -868,6 +872,7 @@ Public high speed wireless, FM broadcasting, mobile decentralized PA using radio
 -
 
 Mission 17: The Corporate Wall Pattern
+IRL      : Yes
 
 A design pattern for decentralized anonymous commerce for entire communities using shell corporations. Otherwise known as shell corporations, but used for good.
 
@@ -875,11 +880,12 @@ It's defensive wall -- legally, commercially and physically.
 
 Metaphor: Exchanging only through ports in the walls, with a full battery of defenses closely monitoring external activity from the watchtowers.
 
-Localities under self-governance can use the Corporate Wall Pattern to hire outside security to provide physical self-defense just outside their borders.
+Localities under self-governance can use the Corporate Wall Pattern to hire outside, private security to provide physical self-defense patrols just outside their borders.
 
 -
 
 Mission 18: Invent the First Robotic Person (seriously)
+IRL      : Yes
 
 Or, Unveiling the Perfect Corporate Executive
 
