@@ -630,7 +630,7 @@ Discovering Our Faith
 ---
 
 Mission 9: The Haskell School of Haskell
-IRL      : No
+IRL      : No, Maybe, Probably Not, Never Mind, No
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
@@ -642,15 +642,17 @@ This experience in learning will blow your mind, and you'll die laughing.
   
 We know that sounds awfully violent, but whatever. Come learn Haskell.
 
-It's a crying shame that Haskell isn't owning the expression space, and when
-I say expression, I mean all the artful ways people use computers to express
-themselves: music, animation and video games.
+Are you a tokenomics nerd interested in exploring some experimental ideas? Haskell is a great way to discover new things like that. Haskell is specially appealing if you enjoy solving puzzles, because Haskell sure offers you lots of puzzles to solve. Some would say the compiler's error messages suck, but I call them puzzles. Relax. They're puzzles. Fun! Functional!
+
+Also, it's a crying shame that Haskell isn't producing products that revolutionize the expression space, and when I say expression, I mean all the artful ways people use computers to express themselves: music, animation and video games.
+
+Some would complain that Haskeller's don't document their code enough. Relax. Whenever you don't find documented code in a Haskell project, that's where the code is expressive enough by itself. So again, relax. Find a quiet place to be with the code, and then listen for it to express itself to you.
+
+Seriously, tho, Haskell is expressive.
 
 That's why, in the Haskell School of Haskell, you get to choose your path(s) of
-expression, and then get busy discovering all the ways you can get it done
-expressively. We hope to prepare you to join us on a number of Haskell
-missions, not only in the area of creative expression (see Missions 10), but
-on stuff like blockchain
+expression, and then get busy discovering all the ways you can get your stuff done
+expressively. I could've expressed that more concisely.
 
 ---
 
