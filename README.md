@@ -630,7 +630,7 @@ Discovering Our Faith
 ---
 
 Mission 9: The Haskell School of Haskell
-IRL      : No, Maybe, Probably Not, Never Mind, No
+IRL      : Yes, Hackathons
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
