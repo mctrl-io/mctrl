@@ -915,7 +915,7 @@ In terms of my favored programming languages, C++ gave way to Java, then
 Scala, and ultimately Haskell. Some people prefer or need to be versatile,
 but for me, when it comes to my own coding now, I'm a Haskeller.
 
-Speaking of Haskell, I thank God for Cardano and what they're doing. In general, I conclude at this point that the spirit of the Cardano project is executing on MetaMission. I'm all in, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano.
+Speaking of Haskell, I thank God for what Cardano is striving to do for people IRL, and for what they're doing with Haskell. The Cardano project appears to be executing on MetaMission, so I'm in, personally, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano.
 
 And speaking of God, here's another thing. In 2013, I decided to reject
 technology and the whole system (it's complicated), so I checked out, bought
