@@ -340,9 +340,6 @@ Insignia Contest
   people on earth.
   
   [NASA patch example]
-  
-  Finally, please try to avoid using any trippy, mysterious symbolism (alchemy symbols, mythological references, etc.), and use only
-  words used in this document to describe Mission CTRL.
     
   Send your submissions to fox@trqoiz.com.
 
@@ -354,15 +351,51 @@ The Story of Fox and Raven (Founders)
 
   Fox and Raven are married, and they go on adventures together. Fox has been
   coding since he was kid, but Fox is 50 years old now, so that means he's been
-  coding for many, many milliseconds.
+  coding for many, many milliseconds. Raven is already busy working on missions, and together they're taking it on the road, going global, to everyone, wherever they are, and doing the work they've been called to do.
 
-  Fox says,
+  My name is Gustav, and they call me the testy reporter with a heart of gold. Welcome to my blog. Here's what we know about the founders of Mission CTRL, based on what I was able to find.
 
-  For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+  Fox and Raven study the Bible together, and they pray together, asking God to guide them, and to put them on mission to do His work. God has indeed guided them, blessing their marriage and their lives, empowering them by His Holy Spirit to seek His will, denying their own selfish desires, to preach the gospel and to walk the walk with His Son, Jesus Christ, with love toward all. Sounds difficult, but with God it's easy.
 
-  I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my
-  teens, I learned about C++ and studied object-oriented programming for a few
-  years, for no particular reason other than it gave me joy. Then I went to
+  Jesus said, "Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head" (Luke 9:58b).
+
+  "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me" (Matt 16:24).
+
+  With those verses in mind, the mission of Fox and Raven was thus put before them like a lighted path, and because they were prepared and equipped to go, they eagerly answered back, "Lord, send us," thus sealing their covenant before God, the world and everyone.
+
+  Since the time of those events, not long ago, when Fox and Raven entered the Development stage of this new great mission, the MetaMission as it became to be known to the world, God has only been giving them more and more, enabling their mission to go further and further.
+
+  I visited Fox at his hole on the outskirts of the Mojave Desert to ask him some questions.
+
+  Q: Hi there, Fox. Do you have any questions before we get started?
+
+  A: Hello, Gustav. Thank you for visiting. Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
+
+  Q: That's a little bit personal, bro.
+
+  A: I'm sorry.
+
+  Q: I mean, I don't come into your house and start demanding answers about your personal life.
+
+  A: Actually, you literally just did that.
+
+  Q: Let's get started, shall we?
+
+  A: Fine by me, Gustav. It's your blog.
+
+  Q: You're correct about that. Anyway, if you're done wasting everyone's time, we can get started. What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
+
+  A: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Gustav... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+
+  Q: I see what you did there, trying to encode your Christian faith into something even I can agree with.
+
+  A: Yes, Gustav, even you can agree with the MetaMission.
+
+  Q: That's nice to know, but I already knew that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
+
+  A: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject I have in mind. As for me and coding...
+
+  I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my teens, I learned about C++ and studied object-oriented programming for a few years, for no particular reason other than it gave me joy. Then I went to
   college and majored in creative writing and literature, which also gave me
   joy, and I ignored computers until my final year. You could still ignore
   computers in the early 90s. What happened in my final year to bring me back
@@ -403,7 +436,19 @@ The Story of Fox and Raven (Founders)
   
   Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
 
-  Q: Is this a Christian organization?
+  Q: You really went off there.
+
+  A: Sorry.
+
+  Q: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert you keep with your bird-wife.
+
+  A: Raven.
+
+  Q: That's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
+
+  A: Have it your way, Gustav.
+
+  Q: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
 
   A: No, but the MetaMission is founded upon biblical principles because its
   framers, Fox and Raven, are Christians who seek God's will for directing
@@ -423,13 +468,33 @@ The Story of Fox and Raven (Founders)
   Let's be clear: Mission CTRL is for everyone, and always will be, and there's
   no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have me.
   
-  Anyway, I'm sharing my background in order to explain a little about my
+  Q: You know what?
+
+  A: What?
+
+  Q: You share too much.
+
+  A: I'm only sharing my background in order to explain a little about my
   peculiar relationship with technology, my respect for your individual
   freedom (in word, thought and deed), the guiding principles of the MetaMission, which are expressed in the acronym CTRL, and that I'm equipped to deploy on this mission and succeed -- with the support of Mission CTRL.
 
-  Maybe Raven will say something later. You'll see us appearing soon in video Mission Logs, and we'll be in constant contact with the community in Twitter Spaces and Discord chats.
+  Q: Yawn. Where's Raven?
 
-  Thanks for reading, and God bless all of you.
+  A: Maybe Raven will say something later. She's busy.
+  
+  Q: I really only came to see Raven.
+
+  A: You mean my bird-wife?
+
+  Q: I'm asking the questions here.
+
+  A: Hey, look, dinner's almost ready. Do you want to wrap this up and eat?
+
+  Q: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
+
+  A: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
+
+  Thanks for reading, and may God's love be with you all.
     -- TC Howitt, MetaMissionary
 
 ---
