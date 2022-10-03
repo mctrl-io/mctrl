@@ -387,7 +387,7 @@ The Story of Fox and Raven (Founders)
 
   Fox: Actually, you literally just did that.
 
-  Otter: Look, bro, I'm about to lose my cool all over you. Step up to my tub if you're feeling like feisty, Fox.
+  Otter: Look, bro, I'm about to lose my cool all over you. Step up to my tub if you're feeling all feisty, Fox.
 
   Fox: I thought Otters were always cool.
 
@@ -401,15 +401,15 @@ The Story of Fox and Raven (Founders)
 
   Otter: What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
 
-  Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Otter: ... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+  Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
 
   Otter: I see what you did there, trying to encode your Christian faith into something even I can agree with.
 
   Fox: Yes, Otter, even you can agree with the MetaMission.
 
-  Otter: That's nice to know, but I already knew all that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
+  Otter: That's nice to know, but I already knew all that, and you're getting us off track. Please tell my readers why you're qualified to code all this stuff and save the world for everyone.
 
-  Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject I have in mind. As for me and coding...
+  Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject, and missions allow for this naturally. As for me and coding...
 
   I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my teens, I learned about C++ and studied object-oriented programming for a few years, for no particular reason other than it gave me joy. Then I went to
   college and majored in creative writing and literature, which also gave me
@@ -450,17 +450,17 @@ The Story of Fox and Raven (Founders)
   That's MY statement of dedication to Mission CTRL, before all of you, and
   before my Lord.
   
-  Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've listened this far, you know that means I'm already on MetaMission with all I've got.
+  Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
 
   Otter: You really went off there.
 
   Fox: Sorry.
 
-  Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert. Where's your bird-wife.
+  Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert. Where's your bird-wife?
 
   Fox: Raven.
 
-  Otter: A Raven's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
+  Otter: Yeah, I know. A Raven's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
 
   Fox: Have it your way, Otter.
 
@@ -473,16 +473,14 @@ The Story of Fox and Raven (Founders)
   of all its members, through consensus and personal prerogative.
 
   Perhaps another matter of trivia to unbelievers is that the MetaMission is
-  our codification of Jesus' call to repentence, YOUR call to repentance. The Metamission is the Christian walk, expressed in a way that everyone can
-  follow because it's guided by their God-given conscience, otherwise known as
-  compassion, having a heart, loving.
+  our codification of Jesus' call to repent. The Metamission is the Christian walk, expressed in a way that everyone can follow because it's guided by their God-given conscience, otherwise known as compassion, having a heart, loving.
   
   Lord willing, Mission CTRL will demonstrate the practical benefits of doing
   what Jesus would do today in missions -- true charity -- and all boats will
   rise. Everyone likes those returns.
   
   Let's be clear: Mission CTRL is for everyone, and always will be, and there's
-  no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have me.
+  no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have us.
   
   Otter: You know what?
 
