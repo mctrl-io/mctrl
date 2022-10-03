@@ -14,6 +14,8 @@ We've got crowdfunding under control.
 
 TODO:
 
+Move docs in hakyll
+
 Mission Control pics
 
 Make existing missions stand out, to make the impression. Batteries included: We've already got over a dozen missions in the planning stages, all of them founded on the MetaMission. Some of these missions are ready to start funding now, but Mission CTRL itself needs boostrap funding to enable that functionality. Any sales in this funding phase that exceed the bootstrap funding target will go into the treasury and then get poured into missions later according to consensus (see Bootstrap Funding).
