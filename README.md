@@ -367,33 +367,33 @@ The Story of Fox and Raven (Founders)
 
   I visited Fox at his hole on the outskirts of the Mojave Desert to ask him some questions.
 
-  Q: Hi there, Fox. Do you have any questions before we get started?
+  Gustav: Hi there, Fox. Do you have any questions before we get started?
 
-  A: Hello, Gustav. Thank you for visiting. Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
+  Fox: Hello, Gustav. Thank you for visiting. Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
 
-  Q: That's a little bit personal, bro.
+  Gustav: That's a little bit personal, bro.
 
-  A: I'm sorry.
+  Fox: I'm sorry.
 
-  Q: I mean, I don't come into your house and start demanding answers about your personal life.
+  Gustav: I mean, I don't come into your house and start demanding answers about your personal life.
 
-  A: Actually, you literally just did that.
+  Fox: Actually, you literally just did that.
 
-  Q: Let's get started, shall we?
+  Gustav: Let's get started, shall we?
 
-  A: Fine by me, Gustav. It's your blog.
+  Fox: Fine by me, Gustav. It's your blog.
 
-  Q: You're correct about that. Anyway, if you're done wasting everyone's time, we can get started. What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
+  Gustav: You're correct about that. Anyway, if you're done wasting everyone's time, we can get started. What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
 
-  A: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Gustav... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+  Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Gustav... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
 
-  Q: I see what you did there, trying to encode your Christian faith into something even I can agree with.
+  Gustav: I see what you did there, trying to encode your Christian faith into something even I can agree with.
 
-  A: Yes, Gustav, even you can agree with the MetaMission.
+  Fox: Yes, Gustav, even you can agree with the MetaMission.
 
-  Q: That's nice to know, but I already knew that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
+  Gustav: That's nice to know, but I already knew that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
 
-  A: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject I have in mind. As for me and coding...
+  Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject I have in mind. As for me and coding...
 
   I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my teens, I learned about C++ and studied object-oriented programming for a few years, for no particular reason other than it gave me joy. Then I went to
   college and majored in creative writing and literature, which also gave me
@@ -436,21 +436,21 @@ The Story of Fox and Raven (Founders)
   
   Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
 
-  Q: You really went off there.
+  Gustav: You really went off there.
 
-  A: Sorry.
+  Fox: Sorry.
 
-  Q: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert you keep with your bird-wife.
+  Gustav: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert you keep with your bird-wife.
 
-  A: Raven.
+  Fox: Raven.
 
-  Q: That's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
+  Gustav: That's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
 
-  A: Have it your way, Gustav.
+  Fox: Have it your way, Gustav.
 
-  Q: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
+  Gustav: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
 
-  A: No, but the MetaMission is founded upon biblical principles because its
+  Fox: No, but the MetaMission is founded upon biblical principles because its
   framers, Fox and Raven, are Christians who seek God's will for directing
   their path. Christianity is the life-blood of Mission CTRL, by design, like
   it or not, while the body of Mission CTRL follows the collective free will
@@ -468,31 +468,31 @@ The Story of Fox and Raven (Founders)
   Let's be clear: Mission CTRL is for everyone, and always will be, and there's
   no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have me.
   
-  Q: You know what?
+  Gustav: You know what?
 
-  A: What?
+  Fox: What?
 
-  Q: You share too much.
+  Gustav: You share too much.
 
-  A: I'm only sharing my background in order to explain a little about my
+  Fox: I'm only sharing my background in order to explain a little about my
   peculiar relationship with technology, my respect for your individual
   freedom (in word, thought and deed), the guiding principles of the MetaMission, which are expressed in the acronym CTRL, and that I'm equipped to deploy on this mission and succeed -- with the support of Mission CTRL.
 
-  Q: Yawn. Where's Raven?
+  Gustav: Yawn. Where's Raven?
 
-  A: Maybe Raven will say something later. She's busy.
+  Fox: Maybe Raven will say something later. She's busy.
   
-  Q: I really only came to see Raven.
+  Gustav: I really only came to see Raven.
 
-  A: You mean my bird-wife?
+  Fox: You mean my bird-wife?
 
-  Q: I'm asking the questions here.
+  Gustav: I'm asking the questions here.
 
-  A: Hey, look, dinner's almost ready. Do you want to wrap this up and eat?
+  Fox: Hey, look, dinner's almost ready. Do you want to wrap this up and eat?
 
-  Q: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
+  Gustav: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
 
-  A: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
+  Fox: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
 
   Thanks for reading, and may God's love be with you all.
     -- TC Howitt, MetaMissionary
