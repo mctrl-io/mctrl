@@ -383,11 +383,15 @@ The Story of Fox and Raven (Founders)
 
   Fox: I thought Otters were always cool.
 
-  Otter: That's what my therapist keeps telling me, but then again, my therapist is a snake. Let's get started, shall we?
+  Otter: That's what my therapist keeps telling me, but then again, my therapist is a snake. I call him Dr. Slinky Shrinky. To his face, and he takes it because I'm paying him.
+  
+  Fox: Does that help you?
 
-  Fox: Fine by me. It's your blog.
+  Otter: It gets a testy otter through the session. Let's get started, shall we?
 
-  Otter: You're correct about that. Anyway, if you're done wasting everyone's time, we can get started. What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
+  Fox: Yes, please.
+
+  Otter: What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
 
   Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Otter: ... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
 
