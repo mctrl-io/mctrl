@@ -30,6 +30,8 @@ Stage: Funding
 Purpose-driven crowdfunding, development and operations for people working in
 the real world.
 
+We're marshalling the entire world's decentralized workforce to accomplish our shared missions, right there out in the open.
+
 This is Your Call to Action
   Folks, it's time to get to work.
   
