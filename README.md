@@ -343,173 +343,6 @@ Insignia Contest
     
   Send your submissions to fox@trqoiz.com.
 
-The Story of Fox and Raven (Founders)
-
-   fox@trqoiz.com
-         &
-  raven@trqoiz.com
-
-  Fox and Raven are married, and they go on adventures together. Fox has been
-  coding since he was kid, but Fox is 50 years old now, so that means he's been
-  coding for many, many milliseconds. Raven is already busy working on missions, and together they're taking it on the road, going global, to everyone, wherever they are, and doing the work they've been called to do.
-
-  My name is Otter: , and they call me the testy reporter with a heart of gold. Welcome to my blog. Here's what we know about the founders of Mission CTRL, based on what I was able to find.
-
-  Fox and Raven study the Bible together, and they pray together, asking God to guide them, and to put them on mission to do His work. God has indeed guided them, blessing their marriage and their lives, empowering them by His Holy Spirit to seek His will, denying their own selfish desires, to preach the gospel and to walk the walk with His Son, Jesus Christ, with love toward all. Sounds difficult, but with God it's easy.
-
-  Jesus said, "Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head" (Luke 9:58b).
-
-  "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me" (Matt 16:24).
-
-  With those verses in mind, the mission of Fox and Raven was thus put before them like a lighted path, and because they were prepared and equipped to go, they eagerly answered back, "Lord, send us," thus sealing their covenant before God, the world and everyone.
-
-  Since the time of those events, not long ago, when Fox and Raven entered the Development stage of this new great mission, the MetaMission as it became to be known to the world, God has only been giving them more and more, enabling their mission to go further and further.
-
-  I visited Fox at his hole in the desert outskirts of California to ask him some questions.
-
-  Otter: It's very hot and dry over here.
-  
-  Fox: Hello, Otter. Thank you for visiting. I hope that tub full of cold water is treating you right.
-
-  Otter: It's keeping me from leaving, if that's important to you.
-
-  Fox: Make yourself at home.
-
-  Otter: Thank you, I will. Do you have any questions before we get started?
-
-  Fox: Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
-
-  Otter: That's a little bit personal, bro.
-
-  Fox: I'm sorry.
-
-  Otter: I mean, I don't come into your house and start demanding answers about your personal life.
-
-  Fox: Actually, you literally just did that.
-
-  Otter: Look, bro, I'm about to lose my cool all over you. Step up to my tub if you're feeling all feisty, Fox.
-
-  Fox: I thought Otters were always cool.
-
-  Otter: That's what my therapist keeps telling me, but then again, my therapist is a snake. I call him Dr. Slinky Shrinky. To his face, and he takes it because I'm paying him.
-  
-  Fox: Please stop splashing water at me.
-
-  Otter: It's getting me through this interview. Let's get started, shall we?
-
-  Fox: Yes, please.
-
-  Otter: What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
-
-  Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
-
-  Otter: I see what you did there, trying to encode your Christian faith into something even I can agree with.
-
-  Fox: Yes, Otter, even you can agree with the MetaMission.
-
-  Otter: That's nice to know, but I already knew all that, and you're getting us off track. Please tell my readers why you're qualified to code all this stuff and save the world for everyone.
-
-  Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject, and missions allow for this naturally. As for me and coding...
-
-  I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my teens, I learned about C++ and studied object-oriented programming for a few years, for no particular reason other than it gave me joy. Then I went to
-  college and majored in creative writing and literature, which also gave me
-  joy, and I ignored computers until my final year. You could still ignore
-  computers in the early 90s. What happened in my final year to bring me back
-  to computers was, I was broke.
-  
-  Since I typed at 100 WPM, which is nothing special today among serious
-  computer folk, and since every business was furiously hiring temps to do
-  data entry, I checked out the job board at school for any typing jobs. This
-  was a literal board on the wall, to be clear, though I did run a BBS in the
-  late 80s.
-  
-  There on that board I found an offer that changed everything: an internship at
-  Borland International if you know C++. Gee, I knew some C++.
-  
-  And so I was no longer broke. Not even close. I dropped out of college and
-  went on some crazy startup adventures. Then I settled down and did
-  contracting, then some startups again, then more contracting. Long story
-  short, I became an enterprise software architect instead of a writer and
-  English teacher.
-  
-  In terms of my favored programming languages, C++ gave way to Java, then
-  Scala, and ultimately Haskell. Some people prefer or need to be versatile,
-  but for me, when it comes to my own coding now, I'm a Haskeller.
-  
-  Speaking of Haskell, I thank God for Cardano and what they're doing. In general, I conclude at this point that the spirit of the Cardano project is executing on MetaMission. I'm all in, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano.
-  
-  And speaking of God, here's another thing. In 2013, I decided to reject
-  technology and the whole system (it's complicated), so I checked out, bought
-  an old brick building (old for the US, 1869) and opened a used bookstore full
-  of antiques. Just me and my dog, in a town of about 2,000 country folk. I was
-  busy doing research for a cynical novel I was writing about religion, when at
-  midnight on New Year's Eve 2014-2015, my Lord Jesus Christ saved me. And I
-  never saw it coming. I was at the top of my game, and then God intervened, convicted me, and changed everything for me. I'm completely transformed, given new life. I had been an atheist and an active, demonstrating anarchist all my life (I hope this shows in my continued attention to preserving our personal freedoms), and I didn't even know a single Christian.
-  
-  Now God, through His Son Jesus Christ, has led me to go on this mission here.
-  That's MY statement of dedication to Mission CTRL, before all of you, and
-  before my Lord.
-  
-  Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
-
-  Otter: You really went off there.
-
-  Fox: Sorry.
-
-  Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert. Where's your bird-wife?
-
-  Fox: Raven.
-
-  Otter: Yeah, I know. A Raven's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
-
-  Fox: Have it your way, Otter.
-
-  Otter: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
-
-  Fox: No, but the MetaMission is founded upon biblical principles because its
-  framers, Fox and Raven, are Christians who seek God's will for directing
-  their path. Christianity is the life-blood of Mission CTRL, by design, like
-  it or not, while the body of Mission CTRL follows the collective free will
-  of all its members, through consensus and personal prerogative.
-
-  Perhaps another matter of trivia to unbelievers is that the MetaMission is
-  our codification of Jesus' call to repent. The Metamission is the Christian walk, expressed in a way that everyone can follow because it's guided by their God-given conscience, otherwise known as compassion, having a heart, loving.
-  
-  Lord willing, Mission CTRL will demonstrate the practical benefits of doing
-  what Jesus would do today in missions -- true charity -- and all boats will
-  rise. Everyone likes those returns.
-  
-  Let's be clear: Mission CTRL is for everyone, and always will be, and there's
-  no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have us.
-  
-  Otter: You know what?
-
-  Fox: What?
-
-  Otter: You share too much.
-
-  Fox: I'm only sharing my background in order to explain a little about my
-  peculiar relationship with technology, my respect for your individual
-  freedom (in word, thought and deed), the guiding principles of the MetaMission, which are expressed in the acronym CTRL, and that I'm equipped to deploy on this mission and succeed -- with the support of Mission CTRL.
-
-  Otter: Yawn. Where's Raven?
-
-  Fox: Maybe Raven will say something later. She's busy.
-  
-  Otter: I really only came to see Raven.
-
-  Fox: You mean my bird-wife?
-
-  Otter: I'm asking the questions here.
-
-  Fox: Hey, look, dinner's almost ready. Do you want to wrap this up and eat?
-
-  Otter: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
-
-  Fox: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
-
-  Thanks for reading, and may God's love be with you all.
-
 ---
 
 Mission 1: Mission for Life
@@ -696,8 +529,7 @@ Missionary Profiles
     Mission Statement
       Go Go Mission CTRL!
     Background
-      For the background on Fox and Raven, see their profile in the MetaMission
-      Statement. As it pertains to this mission, do note that in 2021 Fox
+      For the background on Fox and Raven, see their Mission Log on the subject. As it pertains to this mission, do note that in 2021 Fox
       stayed in Slab City for 3 months, living in a classic Toyota Dolphin.
     Requirements
       Personal
@@ -993,11 +825,172 @@ Slab City: Builder's Paradise, Hell on Your Body
 
 -
 
-More About Founders Fox and Raven
+The Story of Fox and Raven (Founders)
 
-Brief bios, in addition to...
+  fox@trqoiz.com
+        &
+raven@trqoiz.com
 
-My tech background
+Fox and Raven are married, and they go on adventures together. Fox has been
+coding since he was kid, but Fox is 50 years old now, so that means he's been
+coding for many, many milliseconds. Raven is already busy working on missions, and together they're taking it on the road, going global, to everyone, wherever they are, and doing the work they've been called to do.
+
+My name is Otter: , and they call me the testy reporter with a heart of gold. Welcome to my blog. Here's what we know about the founders of Mission CTRL, based on what I was able to find.
+
+Fox and Raven study the Bible together, and they pray together, asking God to guide them, and to put them on mission to do His work. God has indeed guided them, blessing their marriage and their lives, empowering them by His Holy Spirit to seek His will, denying their own selfish desires, to preach the gospel and to walk the walk with His Son, Jesus Christ, with love toward all. Sounds difficult, but with God it's easy.
+
+Jesus said, "Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head" (Luke 9:58b).
+
+"Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me" (Matt 16:24).
+
+With those verses in mind, the mission of Fox and Raven was thus put before them like a lighted path, and because they were prepared and equipped to go, they eagerly answered back, "Lord, send us," thus sealing their covenant before God, the world and everyone.
+
+Since the time of those events, not long ago, when Fox and Raven entered the Development stage of this new great mission, the MetaMission as it became to be known to the world, God has only been giving them more and more, enabling their mission to go further and further.
+
+I visited Fox at his hole in the desert outskirts of California to ask him some questions.
+
+Otter: It's very hot and dry over here.
+
+Fox: Hello, Otter. Thank you for visiting. I hope that tub full of cold water is treating you right.
+
+Otter: It's keeping me from leaving, if that's important to you.
+
+Fox: Make yourself at home.
+
+Otter: Thank you, I will. Do you have any questions before we get started?
+
+Fox: Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
+
+Otter: That's a little bit personal, bro.
+
+Fox: I'm sorry.
+
+Otter: I mean, I don't come into your house and start demanding answers about your personal life.
+
+Fox: Actually, you literally just did that.
+
+Otter: Look, bro, I'm about to lose my cool all over you. Step up to my tub if you're feeling all feisty, Fox.
+
+Fox: I thought Otters were always cool.
+
+Otter: That's what my therapist keeps telling me, but then again, my therapist is a snake. I call him Dr. Slinky Shrinky. To his face, and he takes it because I'm paying him.
+
+Fox: Please stop splashing water at me.
+
+Otter: It's getting me through this interview. Let's get started, shall we?
+
+Fox: Yes, please.
+
+Otter: What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
+
+Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+
+Otter: I see what you did there, trying to encode your Christian faith into something even I can agree with.
+
+Fox: Yes, Otter, even you can agree with the MetaMission.
+
+Otter: That's nice to know, but I already knew all that, and you're getting us off track. Please tell my readers why you're qualified to code all this stuff and save the world for everyone.
+
+Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject, and missions allow for this naturally. As for me and coding...
+
+I don't remember coding my first program, but I remember writing a Blackjack game in BASIC on a Tandy Pocket Computer. Wish I could find that thing. Later, in my teens, I learned about C++ and studied object-oriented programming for a few years, for no particular reason other than it gave me joy. Then I went to
+college and majored in creative writing and literature, which also gave me
+joy, and I ignored computers until my final year. You could still ignore
+computers in the early 90s. What happened in my final year to bring me back
+to computers was, I was broke.
+
+Since I typed at 100 WPM, which is nothing special today among serious
+computer folk, and since every business was furiously hiring temps to do
+data entry, I checked out the job board at school for any typing jobs. This
+was a literal board on the wall, to be clear, though I did run a BBS in the
+late 80s.
+
+There on that board I found an offer that changed everything: an internship at
+Borland International if you know C++. Gee, I knew some C++.
+
+And so I was no longer broke. Not even close. I dropped out of college and
+went on some crazy startup adventures. Then I settled down and did
+contracting, then some startups again, then more contracting. Long story
+short, I became an enterprise software architect instead of a writer and
+English teacher.
+
+In terms of my favored programming languages, C++ gave way to Java, then
+Scala, and ultimately Haskell. Some people prefer or need to be versatile,
+but for me, when it comes to my own coding now, I'm a Haskeller.
+
+Speaking of Haskell, I thank God for Cardano and what they're doing. In general, I conclude at this point that the spirit of the Cardano project is executing on MetaMission. I'm all in, and on a mission to help grow Cardano's technology, its community and its usage in helping people IRL. See especially Missions 5, 9 and 14 -- these missions are designed to bring real value to Cardano.
+
+And speaking of God, here's another thing. In 2013, I decided to reject
+technology and the whole system (it's complicated), so I checked out, bought
+an old brick building (old for the US, 1869) and opened a used bookstore full
+of antiques. Just me and my dog, in a town of about 2,000 country folk. I was
+busy doing research for a cynical novel I was writing about religion, when at
+midnight on New Year's Eve 2014-2015, my Lord Jesus Christ saved me. And I
+never saw it coming. I was at the top of my game, and then God intervened, convicted me, and changed everything for me. I'm completely transformed, given new life. I had been an atheist and an active, demonstrating anarchist all my life (I hope this shows in my continued attention to preserving our personal freedoms), and I didn't even know a single Christian.
+
+Now God, through His Son Jesus Christ, has led me to go on this mission here.
+That's MY statement of dedication to Mission CTRL, before all of you, and
+before my Lord.
+
+Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
+
+Otter: You really went off there.
+
+Fox: Sorry.
+
+Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert. Where's your bird-wife?
+
+Fox: Raven.
+
+Otter: Yeah, I know. A Raven's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
+
+Fox: Have it your way, Otter.
+
+Otter: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
+
+Fox: No, but the MetaMission is founded upon biblical principles because its
+framers, Fox and Raven, are Christians who seek God's will for directing
+their path. Christianity is the life-blood of Mission CTRL, by design, like
+it or not, while the body of Mission CTRL follows the collective free will
+of all its members, through consensus and personal prerogative.
+
+Perhaps another matter of trivia to unbelievers is that the MetaMission is
+our codification of Jesus' call to repent. The Metamission is the Christian walk, expressed in a way that everyone can follow because it's guided by their God-given conscience, otherwise known as compassion, having a heart, loving.
+
+Lord willing, Mission CTRL will demonstrate the practical benefits of doing
+what Jesus would do today in missions -- true charity -- and all boats will
+rise. Everyone likes those returns.
+
+Let's be clear: Mission CTRL is for everyone, and always will be, and there's
+no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have us.
+
+Otter: You know what?
+
+Fox: What?
+
+Otter: You share too much.
+
+Fox: I'm only sharing my background in order to explain a little about my
+peculiar relationship with technology, my respect for your individual
+freedom (in word, thought and deed), the guiding principles of the MetaMission, which are expressed in the acronym CTRL, and that I'm equipped to deploy on this mission and succeed -- with the support of Mission CTRL.
+
+Otter: Yawn. Where's Raven?
+
+Fox: Maybe Raven will say something later. She's busy.
+
+Otter: I really only came to see Raven.
+
+Fox: You mean my bird-wife?
+
+Otter: I'm asking the questions here.
+
+Fox: Hey, look, dinner's almost ready. Do you want to wrap this up and eat?
+
+Otter: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
+
+Fox: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
+
+Thanks for reading, and may God's love be with you all.
 
 -
 
