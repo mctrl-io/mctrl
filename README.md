@@ -439,6 +439,8 @@ IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
+One small step for man... one giant leap for mother.
+
 Mission Statement
   We affirm that abortion should never be chosen due to lack of financial
   support. We're dedicated to providing the financial support needed to
@@ -462,6 +464,8 @@ Mission Statement
   Now that's what we call Mission Accomplished.
 
   [img: Having a Cigar at Mission CTRL]
+
+  Houston, we have a baby.
 
 Villages of Hope
   While ending abortion is the driving focus of this mission, the scope of
@@ -865,7 +869,7 @@ Public high speed wireless, FM broadcasting, mobile decentralized PA using radio
 
 Mission 17: The Corporate Wall Pattern
 
-A design pattern for decentralized anonymous commerce for entire communities using shell corporations.
+A design pattern for decentralized anonymous commerce for entire communities using shell corporations. Otherwise known as shell corporations, but used for good.
 
 It's defensive wall -- legally, commercially and physically.
 
