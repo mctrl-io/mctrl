@@ -529,7 +529,7 @@ Missionary Profiles
     Mission Statement
       Go Go Mission CTRL!
     Background
-      For the background on Fox and Raven, see their Mission Log on the subject. As it pertains to this mission, do note that in 2021 Fox
+      For the background on Fox and Raven, see their MetaMission Log on the subject. As it pertains to this mission, do note that in 2021 Fox
       stayed in Slab City for 3 months, living in a classic Toyota Dolphin.
     Requirements
       Personal
@@ -815,15 +815,12 @@ Let's hear about your mission ideas!
 
 ---
 
-Fox and Raven's Mission Logs
+Fox and Raven's MetaMission Logs
 
 -
 
-Slab City: Builder's Paradise, Hell on Your Body
-
-(Get this published.)
-
--
+MetaMission Log
+Earth Date: 2022-10-2
 
 The Story of Fox and Raven (Founders)
 
@@ -994,24 +991,19 @@ Thanks for reading, and may God's love be with you all.
 
 -
 
-Slab City intrusion? God forbid!
-
-We're doing missions right.
-
--
-
 The Bootstrap Fund: An Explainer
 
 -
 
-We're looking forward to deploying to the mission field within days...
+Slab City: Builder's Paradise, Hell on Your Body
 
----
+(Get this published.)
 
-MetaMission
-  Missions
-    Missionaries
-      Logs
+-
+
+Slab City intrusion? God forbid!
+
+We're doing missions right.
   
 ---
 
