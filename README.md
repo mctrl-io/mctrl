@@ -391,7 +391,7 @@ The Story of Fox and Raven (Founders)
 
   Fox: Yes, Gustav, even you can agree with the MetaMission.
 
-  Gustav: That's nice to know, but I already knew that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
+  Gustav: That's nice to know, but I already knew all that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
 
   Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject I have in mind. As for me and coding...
 
