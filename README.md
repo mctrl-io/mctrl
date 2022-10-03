@@ -610,22 +610,25 @@ in this case, happens through SLABDAO.
 
 ---
 
-Mission 7: trqoiz
-IRL      : No
+Mission 7: The Walking Church
+IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Planning
 
+The Walking Church is the church, walking.
+
+Discovering Our Faith
+
 ---
 
-Mission 8: The Walking Staff
+Mission 8: The Public Comms System (PCS)
 IRL      : Yes
 Version  : 1.0-SNAPSHOT
 Stage    : Pre-Planning
 
-The Walking Staff is the church, walking.
-missionstaff.io
+Free communications access for all.
 
-Discovering Our Faith
+Public high speed wireless, FM broadcasting, mobile decentralized PA using radios and megaphones...
 
 ---
 
@@ -772,18 +775,9 @@ The missionaries are those skilled in crypto and able to establish the native to
 
 The drafter of this mission statement affirms that using a picture of his dog Hazel ("Hazy") as the head on coinage is advisable because she's adorable.
 
----
-
-Mission 16: The Public Comms System (PCS)
-IRL      : Yes
-
-Free communications access for all.
-
-Public high speed wireless, FM broadcasting, mobile decentralized PA using radios and megaphones...
-
 -
 
-Mission 17: The Corporate Wall Pattern
+Mission 16: The Corporate Wall Pattern
 IRL      : Yes
 
 A design pattern for decentralized anonymous commerce for entire communities using shell corporations. Otherwise known as shell corporations, but used for good.
@@ -796,7 +790,7 @@ Localities under self-governance can use the Corporate Wall Pattern to hire outs
 
 -
 
-Mission 18: Invent the First Robotic Person (seriously)
+Mission 17: Invent the First Robotic Person (seriously)
 IRL      : Yes
 
 Or, Unveiling the Perfect Corporate Executive
