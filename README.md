@@ -811,8 +811,6 @@ We're making the robots follow our corporate laws without fail, and meanwhile, e
 
 Missions Beyond: Your Own Missions
 
-Let's hear about your mission ideas!
-
 ---
 
 Fox and Raven's MetaMission Logs
