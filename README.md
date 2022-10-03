@@ -353,7 +353,7 @@ The Story of Fox and Raven (Founders)
   coding since he was kid, but Fox is 50 years old now, so that means he's been
   coding for many, many milliseconds. Raven is already busy working on missions, and together they're taking it on the road, going global, to everyone, wherever they are, and doing the work they've been called to do.
 
-  My name is Gustav, and they call me the testy reporter with a heart of gold. Welcome to my blog. Here's what we know about the founders of Mission CTRL, based on what I was able to find.
+  My name is Otter: , and they call me the testy reporter with a heart of gold. Welcome to my blog. Here's what we know about the founders of Mission CTRL, based on what I was able to find.
 
   Fox and Raven study the Bible together, and they pray together, asking God to guide them, and to put them on mission to do His work. God has indeed guided them, blessing their marriage and their lives, empowering them by His Holy Spirit to seek His will, denying their own selfish desires, to preach the gospel and to walk the walk with His Son, Jesus Christ, with love toward all. Sounds difficult, but with God it's easy.
 
@@ -367,31 +367,35 @@ The Story of Fox and Raven (Founders)
 
   I visited Fox at his hole on the outskirts of the Mojave Desert to ask him some questions.
 
-  Gustav: Hi there, Fox. Do you have any questions before we get started?
+  Otter: Hi there, Fox. Do you have any questions before we get started?
 
-  Fox: Hello, Gustav. Thank you for visiting. Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
+  Fox: Hello, Otter. Thank you for visiting. Yes, I do have a question. Why do they call you the testy reporter with a heart of gold?
 
-  Gustav: That's a little bit personal, bro.
+  Otter: That's a little bit personal, bro.
 
   Fox: I'm sorry.
 
-  Gustav: I mean, I don't come into your house and start demanding answers about your personal life.
+  Otter: I mean, I don't come into your house and start demanding answers about your personal life.
 
   Fox: Actually, you literally just did that.
 
-  Gustav: Let's get started, shall we?
+  Otter: Look, bro, I'm about to lose my cool all over you.
 
-  Fox: Fine by me, Gustav. It's your blog.
+  Fox: I thought Otters were always cool.
 
-  Gustav: You're correct about that. Anyway, if you're done wasting everyone's time, we can get started. What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
+  Otter: That's what my therapist keeps telling me, but then again, my therapist is a snake. Let's get started, shall we?
 
-  Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Gustav... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
+  Fox: Fine by me. It's your blog.
 
-  Gustav: I see what you did there, trying to encode your Christian faith into something even I can agree with.
+  Otter: You're correct about that. Anyway, if you're done wasting everyone's time, we can get started. What's the greatest mission that you want to see achieved on earth? And don't use this as an excuse to start Bible thumping.
 
-  Fox: Yes, Gustav, even you can agree with the MetaMission.
+  Fox: Wow. Okay. Let me think. That's a tough one to sum up. No Christiaity allowed here? That's cold, Otter: ... Okay, got it. For me, I'll declare Mission Accomplished when the world affirms what a shameful waste it's been to pour our time and treasure into the Metaverse, spiraling ever deeper into our own imaginations through VR and fake worlds with nothing good to bring into the real world -- in fact, usually seeking departure from the real world -- when we should've been on MetaMission the whole time.
 
-  Gustav: That's nice to know, but I already knew all that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
+  Otter: I see what you did there, trying to encode your Christian faith into something even I can agree with.
+
+  Fox: Yes, Otter, even you can agree with the MetaMission.
+
+  Otter: That's nice to know, but I already knew all that, and you're getting us off track. Please tell our readers why you're qualified to code all this stuff and save the world for everyone.
 
   Fox: First of all, I'm no savior, and secondly, I'm hardly going to code everything myself. I can't wait to fully decentralize this open-source megaproject I have in mind. As for me and coding...
 
@@ -436,19 +440,19 @@ The Story of Fox and Raven (Founders)
   
   Founders of crypto projects often assure their backers by saying they're doxxed. Well, I'm doxxed in that sense (@ismashrobots), but I also have this fact to bring to your attention, which you can also bank on: I confess to being doxxed before God, and so I'm one motivated fella to follow my Lord Jesus Christ in every word, thought and deed. If you've read this far, you know that means I'm already on MetaMission with all I've got.
 
-  Gustav: You really went off there.
+  Otter: You really went off there.
 
   Fox: Sorry.
 
-  Gustav: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert you keep with your bird-wife.
+  Otter: It's cool. But you could've said all that in chat and saved me a trip to your hole in the desert you keep with your bird-wife.
 
   Fox: Raven.
 
-  Gustav: That's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
+  Otter: That's a bird, bro. And she's your wife, right? Bird, wife. Bird-wife.
 
-  Fox: Have it your way, Gustav.
+  Fox: Have it your way, Otter: .
 
-  Gustav: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
+  Otter: Yes, let's have it my way and get back to the important questions. Is Mission CTRL a Christian organization?
 
   Fox: No, but the MetaMission is founded upon biblical principles because its
   framers, Fox and Raven, are Christians who seek God's will for directing
@@ -468,29 +472,29 @@ The Story of Fox and Raven (Founders)
   Let's be clear: Mission CTRL is for everyone, and always will be, and there's
   no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have me.
   
-  Gustav: You know what?
+  Otter: You know what?
 
   Fox: What?
 
-  Gustav: You share too much.
+  Otter: You share too much.
 
   Fox: I'm only sharing my background in order to explain a little about my
   peculiar relationship with technology, my respect for your individual
   freedom (in word, thought and deed), the guiding principles of the MetaMission, which are expressed in the acronym CTRL, and that I'm equipped to deploy on this mission and succeed -- with the support of Mission CTRL.
 
-  Gustav: Yawn. Where's Raven?
+  Otter: Yawn. Where's Raven?
 
   Fox: Maybe Raven will say something later. She's busy.
   
-  Gustav: I really only came to see Raven.
+  Otter: I really only came to see Raven.
 
   Fox: You mean my bird-wife?
 
-  Gustav: I'm asking the questions here.
+  Otter: I'm asking the questions here.
 
   Fox: Hey, look, dinner's almost ready. Do you want to wrap this up and eat?
 
-  Gustav: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
+  Otter: You finally said something worth caring about. For that, you get one more question from me. Where can people follow up?
 
   Fox: You'll see us appearing soon in video Mission Logs, and we'll be in touch in Twitter Spaces and Discord chats.
 
