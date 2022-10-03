@@ -855,6 +855,40 @@ The missionaries are those skilled in crypto and able to establish the native to
 
 ---
 
+Mission 16: The Public Comms System (PCS)
+
+Free communications access for all.
+
+Public high speed wireless, FM broadcasting, mobile decentralized PA using radios and megaphones...
+
+-
+
+Mission 17: The Corporate Wall Pattern
+
+A design pattern for decentralized anonymous commerce for entire communities using shell corporations.
+
+It's defensive wall -- legally, commercially and physically.
+
+Metaphor: Exchanging only through ports in the walls, with a full battery of defenses closely monitoring external activity from the watchtowers.
+
+Localities under self-governance can use the Corporate Wall Pattern to hire outside security to provide physical self-defense just outside their borders.
+
+-
+
+Mission18: Invent the First Robotic Person (seriously)
+
+Or, Unveiling the Perfect Corporate Executive
+
+We'll argue such at the SCOTUS hearings: That we have proved FORMALLY that our smart contracts execute the civil corporate law perfectly, not only qualifying them for the job of running corporations, but putting them above every other corporate executive in history in terms of performance. That means the corporation run only by robots should also be seen as a legal person, with the same rights as corporations run by crooks.
+
+Smart contracts that serve in the executive and board positions. 
+
+Are we creating our robot overlords here? God forbid. We're creating the legal equivalent of servers for the work that requires doing business at scale with the other servers/corporations (say, negotiating with centralized commercial suppliers on imports), and making it pluggable (for instance, adding an extension that understands how lumber is cut, sold and exported). The whole global corporate infrastructure could run according to the laws programmed into our smart contracts rather than according to the selfish whims of humans.
+
+We're making the robots follow our corporate laws without fail, and meanwhile, empowering humans to build and direct those robots exactly like we build mission critical systems today for space missions.
+
+---
+
 Missions Beyond: Your Own Missions
 
 Let's hear about your mission ideas!
