@@ -875,7 +875,7 @@ Localities under self-governance can use the Corporate Wall Pattern to hire outs
 
 -
 
-Mission18: Invent the First Robotic Person (seriously)
+Mission 18: Invent the First Robotic Person (seriously)
 
 Or, Unveiling the Perfect Corporate Executive
 
