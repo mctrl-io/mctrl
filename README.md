@@ -947,7 +947,7 @@ our codification of Jesus' call to repent. The Metamission is the Christian walk
 
 Lord willing, Mission CTRL will demonstrate the practical benefits of doing
 what Jesus would do today in missions -- true charity -- and all boats will
-rise. Everyone likes those returns.
+be lifted with the rising tide. Love offers excellent ROI, and everyone likes those kinds of returns.
 
 Let's be clear: Mission CTRL is for everyone, and always will be, and there's
 no secret or cultish or weird agenda behind it. If you want to create an atheist mission to feed the hungry, please do so ASAP and I'll do my best to spend time on the ground as a missionary for that cause, if you'll have us.
